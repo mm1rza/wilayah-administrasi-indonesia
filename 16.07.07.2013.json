@@ -1,0 +1,7 @@
+﻿{
+  "type": "FeatureCollection",
+  "name": "16.07.07.2013",
+  "features": [
+{ "type": "Feature", "properties": { "OBJECTID": 20857.0, "NAMOBJ": "Sido Rejo", "FCODE": "BA03070040", "REMARK": null, "METADATA": "TASWIL1000020221227_DATA_BATAS_DESAKELURAHAN", "SRS_ID": "4326", "KDBBPS": null, "KDCBPS": null, "KDCPUM": "16.07.07", "KDEBPS": null, "KDEPUM": "16.07.07.2013", "KDPBPS": null, "KDPKAB": "16.07", "KDPPUM": "16", "LUASWH": 0.0, "TIPADM": 1.0, "WADMKC": "Muara Padang", "WADMKD": "Sido Rejo", "WADMKK": "Banyuasin", "WADMPR": "Sumatera Selatan", "WIADKC": null, "WIADKK": null, "WIADPR": null, "WIADKD": null, "UUPP": "Hasil Delineasi Batas Desa 2018", "LUAS": 16.87930577 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 105.185851856000056, -2.575252619999958, 0.0 ], [ 105.185854074000076, -2.575253268999973, 0.0 ], [ 105.170867881000049, -2.629161047999958, 0.0 ], [ 105.166257987000051, -2.64410335599996, 0.0 ], [ 105.147731622000038, -2.639456232999976, 0.0 ], [ 105.16788299500007, -2.569997712999964, 0.0 ], [ 105.185851856000056, -2.575252619999958, 0.0 ] ] ] ] } }
+  ]
+}

@@ -1,0 +1,7 @@
+﻿{
+  "type": "FeatureCollection",
+  "name": "16.07.20.2001",
+  "features": [
+{ "type": "Feature", "properties": { "OBJECTID": 58733.0, "NAMOBJ": "Karang Sari", "FCODE": "BA03070040", "REMARK": null, "METADATA": "TASWIL1000020221227_DATA_BATAS_DESAKELURAHAN", "SRS_ID": "4326", "KDBBPS": null, "KDCBPS": null, "KDCPUM": "16.07.20", "KDEBPS": null, "KDEPUM": "16.07.20.2001", "KDPBPS": null, "KDPKAB": "16.07", "KDPPUM": "16", "LUASWH": 0.0, "TIPADM": 1.0, "WADMKC": "Karang Agung Ilir", "WADMKD": "Karang Sari", "WADMKK": "Banyuasin", "WADMPR": "Sumatera Selatan", "WIADKC": null, "WIADKK": null, "WIADPR": null, "WIADKD": null, "UUPP": "Hasil Delineasi Batas Desa 2018", "LUAS": 13.60808513 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 104.723906059000058, -2.287935179999977, 0.0 ], [ 104.709094203000063, -2.295478786999979, 0.0 ], [ 104.703987776000076, -2.309529513999962, 0.0 ], [ 104.681602376000058, -2.267758156999946, 0.0 ], [ 104.706796600000075, -2.254553310999938, 0.0 ], [ 104.709131888000059, -2.259109636999938, 0.0 ], [ 104.711542433000034, -2.263812797999947, 0.0 ], [ 104.717635260000066, -2.275700365999967, 0.0 ], [ 104.723906059000058, -2.287935179999977, 0.0 ] ] ] ] } }
+  ]
+}

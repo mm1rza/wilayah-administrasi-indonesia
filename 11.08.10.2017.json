@@ -1,0 +1,7 @@
+﻿{
+  "type": "FeatureCollection",
+  "name": "11.08.10.2017",
+  "features": [
+{ "type": "Feature", "properties": { "OBJECTID": 66173.0, "NAMOBJ": "Keude Teupin Punti", "FCODE": "BA03070040", "REMARK": null, "METADATA": "TASWIL1000020221227_DATA_BATAS_DESAKELURAHAN", "SRS_ID": "4326", "KDBBPS": null, "KDCBPS": null, "KDCPUM": "11.08.10", "KDEBPS": null, "KDEPUM": "11.08.10.2017", "KDPBPS": null, "KDPKAB": "11.08", "KDPPUM": "11", "LUASWH": 0.0, "TIPADM": 1.0, "WADMKC": "Syamtalira Aron", "WADMKD": "Keude Teupin Punti", "WADMKK": "Aceh Utara", "WADMPR": "Aceh", "WIADKC": null, "WIADKK": null, "WIADPR": null, "WIADKD": null, "UUPP": "Hasil Delineasi Batas Desa 2019", "LUAS": 0.01310841 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 97.230800162000037, 5.112319982000031, 0.0 ], [ 97.230565767000087, 5.111963884000033, 0.0 ], [ 97.229204069000048, 5.112005417000034, 0.0 ], [ 97.229198834000044, 5.112776522000047, 0.0 ], [ 97.230145118000053, 5.112726740000028, 0.0 ], [ 97.230559138000046, 5.112563403000024, 0.0 ], [ 97.230676432000053, 5.112434195000048, 0.0 ], [ 97.230800162000037, 5.112319982000031, 0.0 ] ] ] ] } }
+  ]
+}

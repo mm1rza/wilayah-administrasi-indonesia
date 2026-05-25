@@ -1,0 +1,7 @@
+﻿{
+  "type": "FeatureCollection",
+  "name": "91.06.04.2022",
+  "features": [
+{ "type": "Feature", "properties": { "OBJECTID": 76710.0, "NAMOBJ": "Pomdori Sup", "FCODE": "BA03070040", "REMARK": "Perlu Klarifikasi Koordinat Desa", "METADATA": "TASWIL1000020221227_DATA_BATAS_DESAKELURAHAN", "SRS_ID": "4326", "KDBBPS": null, "KDCBPS": null, "KDCPUM": "91.06.04", "KDEBPS": null, "KDEPUM": "91.06.04.2022", "KDPBPS": null, "KDPKAB": "91.06", "KDPPUM": "91", "LUASWH": 363.83672599, "TIPADM": 1.0, "WADMKC": "Numfor Barat", "WADMKD": "Pomdori Sup", "WADMKK": "Biak Numfor", "WADMPR": "Papua", "WIADKC": null, "WIADKK": null, "WIADPR": null, "WIADKD": null, "UUPP": "Hasil Delineasi Batas Desa 2018", "LUAS": 3.61274653 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 134.871526069000083, -1.067225812999936, 0.0 ], [ 134.873781529000098, -1.091608678999933, 0.0 ], [ 134.86932855900011, -1.090920074999929, 0.0 ], [ 134.862024, -1.089789937999967, 0.0 ], [ 134.85803038500012, -1.067225199999939, 0.0 ], [ 134.871526069000083, -1.067225812999936, 0.0 ] ] ] ] } }
+  ]
+}

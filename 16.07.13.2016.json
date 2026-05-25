@@ -1,0 +1,7 @@
+﻿{
+  "type": "FeatureCollection",
+  "name": "16.07.13.2016",
+  "features": [
+{ "type": "Feature", "properties": { "OBJECTID": 58724.0, "NAMOBJ": "Jalur Mulya", "FCODE": "BA03070040", "REMARK": null, "METADATA": "TASWIL1000020221227_DATA_BATAS_DESAKELURAHAN", "SRS_ID": "4326", "KDBBPS": null, "KDCBPS": null, "KDCPUM": "16.07.13", "KDEBPS": null, "KDEPUM": "16.07.13.2016", "KDPBPS": null, "KDPKAB": "16.07", "KDPPUM": "16", "LUASWH": 0.0, "TIPADM": 1.0, "WADMKC": "Muara Sugihan", "WADMKD": "Jalur Mulya", "WADMKK": "Banyuasin", "WADMPR": "Sumatera Selatan", "WIADKC": null, "WIADKK": null, "WIADPR": null, "WIADKD": null, "UUPP": "Hasil Delineasi Batas Desa 2018", "LUAS": 18.92515786 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 105.298851800000079, -2.419980557999963, 0.0 ], [ 105.287631285000089, -2.455587237999964, 0.0 ], [ 105.287623290000056, -2.455612409999958, 0.0 ], [ 105.267888360000086, -2.449349666999979, 0.0 ], [ 105.248373120000053, -2.443156285999976, 0.0 ], [ 105.259693890000051, -2.407465419999937, 0.0 ], [ 105.298851800000079, -2.419980557999963, 0.0 ] ] ] ] } }
+  ]
+}

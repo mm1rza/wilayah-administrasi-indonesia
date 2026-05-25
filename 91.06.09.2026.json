@@ -1,0 +1,7 @@
+﻿{
+  "type": "FeatureCollection",
+  "name": "91.06.09.2026",
+  "features": [
+{ "type": "Feature", "properties": { "OBJECTID": 77296.0, "NAMOBJ": "Warawaf", "FCODE": "BA03070040", "REMARK": "Perlu Klarifikasi Koordinat Desa", "METADATA": "TASWIL1000020221227_DATA_BATAS_DESAKELURAHAN", "SRS_ID": "4326", "KDBBPS": null, "KDCBPS": null, "KDCPUM": "91.06.09", "KDEBPS": null, "KDEPUM": "91.06.09.2026", "KDPBPS": null, "KDPKAB": "91.06", "KDPPUM": "91", "LUASWH": 30.3419976, "TIPADM": 1.0, "WADMKC": "Warsa", "WADMKD": "Warawaf", "WADMKK": "Biak Numfor", "WADMPR": "Papua", "WIADKC": null, "WIADKK": null, "WIADPR": null, "WIADKD": null, "UUPP": "Hasil Delineasi Batas Desa 2018", "LUAS": 0.30132824 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 135.958655626000109, -0.815647894999927, 0.0 ], [ 135.957566992000011, -0.816714756999943, 0.0 ], [ 135.954239029000064, -0.819976159999953, 0.0 ], [ 135.950714316000017, -0.824004357999968, 0.0 ], [ 135.949338075000014, -0.822243500999946, 0.0 ], [ 135.956935346000023, -0.814073454999971, 0.0 ], [ 135.958655626000109, -0.815647894999927, 0.0 ] ] ] ] } }
+  ]
+}

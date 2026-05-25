@@ -1,0 +1,7 @@
+﻿{
+  "type": "FeatureCollection",
+  "name": "16.07.14.2009",
+  "features": [
+{ "type": "Feature", "properties": { "OBJECTID": 20735.0, "NAMOBJ": "Saleh Agung", "FCODE": "BA03070040", "REMARK": null, "METADATA": "TASWIL1000020221227_DATA_BATAS_DESAKELURAHAN", "SRS_ID": "4326", "KDBBPS": null, "KDCBPS": null, "KDCPUM": "16.07.14", "KDEBPS": null, "KDEPUM": "16.07.14.2009", "KDPBPS": null, "KDPKAB": "16.07", "KDPPUM": "16", "LUASWH": 0.0, "TIPADM": 1.0, "WADMKC": "Air Salek", "WADMKD": "Saleh Agung", "WADMKK": "Banyuasin", "WADMPR": "Sumatera Selatan", "WIADKC": null, "WIADKK": null, "WIADPR": null, "WIADKD": null, "UUPP": "Hasil Delineasi Batas Desa 2018", "LUAS": 19.45142076 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 105.027240666000068, -2.59937120099994, 0.0 ], [ 105.008321704000082, -2.668576249999944, 0.0 ], [ 104.989275802000066, -2.663541539999926, 0.0 ], [ 104.988914728000054, -2.664813271999947, 0.0 ], [ 104.988914029000057, -2.664812968999968, 0.0 ], [ 104.986496569000053, -2.66376867799994, 0.0 ], [ 105.00605444200005, -2.594145629999957, 0.0 ], [ 105.027240666000068, -2.59937120099994, 0.0 ] ] ] ] } }
+  ]
+}

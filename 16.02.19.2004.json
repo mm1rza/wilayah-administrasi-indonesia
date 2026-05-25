@@ -1,0 +1,7 @@
+﻿{
+  "type": "FeatureCollection",
+  "name": "16.02.19.2004",
+  "features": [
+{ "type": "Feature", "properties": { "OBJECTID": 19810.0, "NAMOBJ": "Lebung Batang", "FCODE": "BA03070040", "REMARK": null, "METADATA": "TASWIL1000020221227_DATA_BATAS_DESAKELURAHAN", "SRS_ID": "4326", "KDBBPS": null, "KDCBPS": null, "KDCPUM": "16.02.19", "KDEBPS": null, "KDEPUM": "16.02.19.2004", "KDPBPS": null, "KDPKAB": "16.02", "KDPPUM": "16", "LUASWH": 0.0, "TIPADM": 1.0, "WADMKC": "Pangkalan Lampam", "WADMKD": "Lebung Batang", "WADMKK": "Ogan Komering Ilir", "WADMPR": "Sumatera Selatan", "WIADKC": null, "WIADKK": null, "WIADPR": null, "WIADKD": null, "UUPP": "Hasil Delineasi Batas Desa 2018", "LUAS": 4.26390015 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 105.14, -3.210277776999931, 0.0 ], [ 105.130222221000054, -3.210277777999977, 0.0 ], [ 105.11757756600008, -3.216039692999971, 0.0 ], [ 105.117538767000042, -3.213659163999978, 0.0 ], [ 105.115142528000035, -3.208074713999963, 0.0 ], [ 105.112333333000038, -3.201527777999956, 0.0 ], [ 105.112166666000064, -3.197638888999961, 0.0 ], [ 105.126805556000079, -3.186277777999976, 0.0 ], [ 105.124118868000039, -3.196642766999958, 0.0 ], [ 105.127905017000046, -3.199869451999973, 0.0 ], [ 105.14, -3.210277776999931, 0.0 ] ] ] ] } }
+  ]
+}

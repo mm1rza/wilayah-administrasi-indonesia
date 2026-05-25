@@ -1,0 +1,7 @@
+﻿{
+  "type": "FeatureCollection",
+  "name": "64.01.08.2020",
+  "features": [
+{ "type": "Feature", "properties": { "OBJECTID": 61124.0, "NAMOBJ": "Muara Adang II", "FCODE": "BA03070040", "REMARK": null, "METADATA": "TASWIL1000020221227_DATA_BATAS_DESAKELURAHAN", "SRS_ID": "4326", "KDBBPS": null, "KDCBPS": null, "KDCPUM": "64.01.08", "KDEBPS": null, "KDEPUM": "64.01.08.2020", "KDPBPS": null, "KDPKAB": "64.01", "KDPPUM": "64", "LUASWH": 0.0, "TIPADM": 1.0, "WADMKC": "Long Kali", "WADMKD": "Muara Adang II", "WADMKK": "Paser", "WADMPR": "Kalimantan Timur", "WIADKC": null, "WIADKK": null, "WIADPR": null, "WIADKD": null, "UUPP": "Hasil Delineasi Batas Desa 2018", "LUAS": 4.34511349 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 116.369499661000077, -1.648987959999943, 0.0 ], [ 116.369461502000036, -1.648991954999929, 0.0 ], [ 116.354450170000064, -1.648148038999977, 0.0 ], [ 116.355106968000086, -1.625769632999948, 0.0 ], [ 116.355127708000055, -1.625062983999953, 0.0 ], [ 116.356517684000096, -1.625138178999975, 0.0 ], [ 116.356501847000118, -1.624598989999924, 0.0 ], [ 116.369842295000012, -1.62505703599993, 0.0 ], [ 116.369499661000077, -1.648987959999943, 0.0 ] ] ] ] } }
+  ]
+}

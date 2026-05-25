@@ -1,0 +1,7 @@
+﻿{
+  "type": "FeatureCollection",
+  "name": "64.08.11.2008",
+  "features": [
+{ "type": "Feature", "properties": { "OBJECTID": 77539.0, "NAMOBJ": "Manubar Dalam", "FCODE": "BA03070040", "REMARK": null, "METADATA": "TASWIL1000020221227_DATA_BATAS_DESAKELURAHAN", "SRS_ID": "4326", "KDBBPS": null, "KDCBPS": null, "KDCPUM": "64.08.11", "KDEBPS": null, "KDEPUM": "64.08.11.2008", "KDPBPS": null, "KDPKAB": "64.08", "KDPPUM": "64", "LUASWH": 0.0, "TIPADM": 1.0, "WADMKC": "Sandaran", "WADMKD": "Manubar Dalam", "WADMKK": "Kutai Timur", "WADMPR": "Kalimantan Timur", "WIADKC": null, "WIADKK": null, "WIADPR": null, "WIADKD": null, "UUPP": "Hasil Delineasi Batas Desa 2018", "LUAS": 174.14847001000001 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 118.414918481000086, 0.892677477000063, 0.0 ], [ 118.413600613000085, 0.984774356000059, 0.0 ], [ 118.568235665000088, 0.984994397000037, 0.0 ], [ 118.56832182900007, 0.983778891000043, 0.0 ], [ 118.568228950000048, 0.893358128000045, 0.0 ], [ 118.476232286000027, 0.892941466000025, 0.0 ], [ 118.414918481000086, 0.892677477000063, 0.0 ] ] ] ] } }
+  ]
+}

@@ -1,0 +1,7 @@
+﻿{
+  "type": "FeatureCollection",
+  "name": "18.11.03.2010",
+  "features": [
+{ "type": "Feature", "properties": { "OBJECTID": 24233.0, "NAMOBJ": "Telogo Rejo", "FCODE": "BA03070040", "REMARK": null, "METADATA": "TASWIL1000020221227_DATA_BATAS_DESAKELURAHAN", "SRS_ID": "4326", "KDBBPS": null, "KDCBPS": null, "KDCPUM": "18.11.03", "KDEBPS": null, "KDEPUM": "18.11.03.2010", "KDPBPS": null, "KDPKAB": "18.11", "KDPPUM": "18", "LUASWH": 0.0, "TIPADM": 1.0, "WADMKC": "Rawa Jitu Utara", "WADMKD": "Telogo Rejo", "WADMKK": "Mesuji", "WADMPR": "Lampung", "WIADKC": null, "WIADKK": null, "WIADPR": null, "WIADKD": null, "UUPP": "Hasil Delineasi Batas Desa 2018", "LUAS": 10.69266998 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 105.677773302000048, -4.13615828099995, 0.0 ], [ 105.643748792000054, -4.139435893999973, 0.0 ], [ 105.641259762000061, -4.113981687999967, 0.0 ], [ 105.675166138000066, -4.110815644999946, 0.0 ], [ 105.675336242000071, -4.112469207999936, 0.0 ], [ 105.677773302000048, -4.13615828099995, 0.0 ] ] ] ] } }
+  ]
+}

@@ -1,0 +1,7 @@
+﻿{
+  "type": "FeatureCollection",
+  "name": "12.04.28.2007",
+  "features": [
+{ "type": "Feature", "properties": { "OBJECTID": 56161.0, "NAMOBJ": "Atualuo", "FCODE": "BA03070040", "REMARK": null, "METADATA": "TASWIL1000020221227_DATA_BATAS_DESAKELURAHAN", "SRS_ID": "4326", "KDBBPS": null, "KDCBPS": null, "KDCPUM": "12.04.28", "KDEBPS": null, "KDEPUM": "12.04.28.2007", "KDPBPS": null, "KDPKAB": "12.04", "KDPPUM": "12", "LUASWH": 0.0, "TIPADM": 1.0, "WADMKC": "Ma'U", "WADMKD": "Atualuo", "WADMKK": "Nias", "WADMPR": "Sumatera Utara", "WIADKC": null, "WIADKK": null, "WIADPR": null, "WIADKD": null, "UUPP": "Hasil Delineasi Batas Desa 2019", "LUAS": 1.23625989 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 97.636214584000072, 1.066829344000041, 0.0 ], [ 97.628619837000088, 1.065909521000037, 0.0 ], [ 97.623280942000065, 1.065018849000069, 0.0 ], [ 97.623111888000039, 1.072119140000041, 0.0 ], [ 97.629642612000055, 1.074826423000047, 0.0 ], [ 97.633912381000073, 1.075808493000068, 0.0 ], [ 97.636214584000072, 1.066829344000041, 0.0 ] ] ] ] } }
+  ]
+}

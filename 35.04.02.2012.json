@@ -1,0 +1,7 @@
+﻿{
+  "type": "FeatureCollection",
+  "name": "35.04.02.2012",
+  "features": [
+{ "type": "Feature", "properties": { "OBJECTID": 12070.0, "NAMOBJ": "Kepuh", "FCODE": "BA03070040", "REMARK": null, "METADATA": "TASWIL1000020221227_DATA_BATAS_DESAKELURAHAN", "SRS_ID": "SRGI 2013", "KDBBPS": null, "KDCBPS": null, "KDCPUM": "35.04.02", "KDEBPS": null, "KDEPUM": "35.04.02.2012", "KDPBPS": null, "KDPKAB": "35.04", "KDPPUM": "35", "LUASWH": 0.0, "TIPADM": 1.0, "WADMKC": "Boyolangu", "WADMKD": "Kepuh", "WADMKK": "Tulungagung", "WADMPR": "Jawa Timur", "WIADKC": null, "WIADKK": null, "WIADPR": null, "WIADKD": null, "UUPP": "Ajudikasi 2015", "LUAS": 0.08992589 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 111.941328432000034, -8.065381775999981, 0.0 ], [ 111.941671486000075, -8.06836743599996, 0.0 ], [ 111.941046730000039, -8.068158290999975, 0.0 ], [ 111.940094769000041, -8.067662733999953, 0.0 ], [ 111.939518012000065, -8.06744390199998, 0.0 ], [ 111.938441778000083, -8.067197497999928, 0.0 ], [ 111.93842079500007, -8.065157731999932, 0.0 ], [ 111.941328432000034, -8.065381775999981, 0.0 ] ] ] ] } }
+  ]
+}

@@ -1,0 +1,7 @@
+﻿{
+  "type": "FeatureCollection",
+  "name": "16.07.14.2008",
+  "features": [
+{ "type": "Feature", "properties": { "OBJECTID": 20736.0, "NAMOBJ": "Saleh Jaya", "FCODE": "BA03070040", "REMARK": null, "METADATA": "TASWIL1000020221227_DATA_BATAS_DESAKELURAHAN", "SRS_ID": "4326", "KDBBPS": null, "KDCBPS": null, "KDCPUM": "16.07.14", "KDEBPS": null, "KDEPUM": "16.07.14.2008", "KDPBPS": null, "KDPKAB": "16.07", "KDPPUM": "16", "LUASWH": 0.0, "TIPADM": 1.0, "WADMKC": "Air Salek", "WADMKD": "Saleh Jaya", "WADMKK": "Banyuasin", "WADMPR": "Sumatera Selatan", "WIADKC": null, "WIADKK": null, "WIADPR": null, "WIADKD": null, "UUPP": "Hasil Delineasi Batas Desa 2018", "LUAS": 20.39471504 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 105.046755175000044, -2.529300800999977, 0.0 ], [ 105.027240666000068, -2.59937120099994, 0.0 ], [ 105.00605444200005, -2.594145629999957, 0.0 ], [ 105.004763060000073, -2.593827095999927, 0.0 ], [ 105.024902159000078, -2.523973660999957, 0.0 ], [ 105.024903774000052, -2.523974132999967, 0.0 ], [ 105.046755175000044, -2.529300800999977, 0.0 ] ] ] ] } }
+  ]
+}

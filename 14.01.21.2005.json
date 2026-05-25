@@ -1,0 +1,7 @@
+﻿{
+  "type": "FeatureCollection",
+  "name": "14.01.21.2005",
+  "features": [
+{ "type": "Feature", "properties": { "OBJECTID": 53098.0, "NAMOBJ": "Pongkai", "FCODE": "BA03070040", "REMARK": null, "METADATA": "TASWIL1000020221227_DATA_BATAS_DESAKELURAHAN", "SRS_ID": "4326", "KDBBPS": null, "KDCBPS": null, "KDCPUM": "14.01.21", "KDEBPS": null, "KDEPUM": "14.01.21.2005", "KDPBPS": null, "KDPKAB": "14.01", "KDPPUM": "14", "LUASWH": 0.0, "TIPADM": 1.0, "WADMKC": "Koto Kampar Hulu", "WADMKD": "Pongkai", "WADMKK": "Kampar", "WADMPR": "Riau", "WIADKC": null, "WIADKK": null, "WIADPR": null, "WIADKD": null, "UUPP": "Hasil Delineasi Batas Desa 2018", "LUAS": 12.99882837 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 100.615487761000054, 0.327671839000061, 0.0 ], [ 100.587093949000064, 0.370422054000073, 0.0 ], [ 100.594607146000044, 0.385586904000036, 0.0 ], [ 100.62657063000006, 0.362117435000073, 0.0 ], [ 100.620488650000084, 0.343284661000041, 0.0 ], [ 100.615487761000054, 0.327671839000061, 0.0 ] ] ] ] } }
+  ]
+}

@@ -1,0 +1,7 @@
+﻿{
+  "type": "FeatureCollection",
+  "name": "18.11.02.2015",
+  "features": [
+{ "type": "Feature", "properties": { "OBJECTID": 23270.0, "NAMOBJ": "Pangkal Mas", "FCODE": "BA03070040", "REMARK": null, "METADATA": "TASWIL1000020221227_DATA_BATAS_DESAKELURAHAN", "SRS_ID": "4326", "KDBBPS": null, "KDCBPS": null, "KDCPUM": "18.11.02", "KDEBPS": null, "KDEPUM": "18.11.02.2015", "KDPBPS": null, "KDPKAB": "18.11", "KDPPUM": "18", "LUASWH": 0.0, "TIPADM": 1.0, "WADMKC": "Mesuji Timur", "WADMKD": "Pangkal Mas", "WADMKK": "Mesuji", "WADMPR": "Lampung", "WIADKC": null, "WIADKK": null, "WIADPR": null, "WIADKD": null, "UUPP": "Hasil Delineasi Batas Desa 2018", "LUAS": 7.29872791 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 105.591768985000044, -4.036959009999975, 0.0 ], [ 105.576873054000032, -4.047381561999941, 0.0 ], [ 105.557849648000058, -4.020240010999942, 0.0 ], [ 105.570485833000077, -4.011304979999977, 0.0 ], [ 105.570487722000053, -4.011303644999941, 0.0 ], [ 105.572502268000051, -4.013935656999934, 0.0 ], [ 105.574573136000083, -4.012459633999981, 0.0 ], [ 105.591768985000044, -4.036959009999975, 0.0 ] ] ] ] } }
+  ]
+}

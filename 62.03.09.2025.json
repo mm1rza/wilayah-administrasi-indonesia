@@ -1,0 +1,7 @@
+﻿{
+  "type": "FeatureCollection",
+  "name": "62.03.09.2025",
+  "features": [
+{ "type": "Feature", "properties": { "OBJECTID": 34336.0, "NAMOBJ": "Lamunti Permai", "FCODE": "BA03070040", "REMARK": null, "METADATA": "TASWIL1000020221227_DATA_BATAS_DESAKELURAHAN", "SRS_ID": "4326", "KDBBPS": null, "KDCBPS": null, "KDCPUM": "62.03.09", "KDEBPS": null, "KDEPUM": "62.03.09.2025", "KDPBPS": null, "KDPKAB": "62.03", "KDPPUM": "62", "LUASWH": 0.0, "TIPADM": 1.0, "WADMKC": "Mantangai", "WADMKD": "Lamunti Permai", "WADMKK": "Kapuas", "WADMPR": "Kalimantan Tengah", "WIADKC": null, "WIADKK": null, "WIADPR": null, "WIADKD": null, "UUPP": "Hasil Delineasi Batas Desa 2018", "LUAS": 17.27000727 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 114.476004217000082, -2.586303545999954, 0.0 ], [ 114.457951067000067, -2.629193810999936, 0.0 ], [ 114.457782309000095, -2.629122479999978, 0.0 ], [ 114.426193942000054, -2.615770514999952, 0.0 ], [ 114.429868074000069, -2.607353410999963, 0.0 ], [ 114.435641626, -2.594126169999925, 0.0 ], [ 114.443133774000103, -2.589589026999931, 0.0 ], [ 114.459994582000036, -2.579377932999932, 0.0 ], [ 114.476004217000082, -2.586303545999954, 0.0 ] ] ] ] } }
+  ]
+}

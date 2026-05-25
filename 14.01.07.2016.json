@@ -1,0 +1,7 @@
+﻿{
+  "type": "FeatureCollection",
+  "name": "14.01.07.2016",
+  "features": [
+{ "type": "Feature", "properties": { "OBJECTID": 53728.0, "NAMOBJ": "Sungai Paku", "FCODE": "BA03070040", "REMARK": null, "METADATA": "TASWIL1000020221227_DATA_BATAS_DESAKELURAHAN", "SRS_ID": "4326", "KDBBPS": null, "KDCBPS": null, "KDCPUM": "14.01.07", "KDEBPS": null, "KDEPUM": "14.01.07.2016", "KDPBPS": null, "KDPKAB": "14.01", "KDPPUM": "14", "LUASWH": 0.0, "TIPADM": 1.0, "WADMKC": "Kampar Kiri", "WADMKD": "Sungai Paku", "WADMKK": "Kampar", "WADMPR": "Riau", "WIADKC": null, "WIADKK": null, "WIADPR": null, "WIADKD": null, "UUPP": "Hasil Delineasi Batas Desa 2018", "LUAS": 1.22610431 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 101.190032998000049, 0.05357856300003, 0.0 ], [ 101.186553685000035, 0.060948912000072, 0.0 ], [ 101.197594154000058, 0.064084392000041, 0.0 ], [ 101.200156707000076, 0.054676499000038, 0.0 ], [ 101.197238854000034, 0.052930011000058, 0.0 ], [ 101.192191895000065, 0.05416075100004, 0.0 ], [ 101.190032998000049, 0.05357856300003, 0.0 ] ] ] ] } }
+  ]
+}

@@ -1,0 +1,7 @@
+﻿{
+  "type": "FeatureCollection",
+  "name": "17.05.04.1005",
+  "features": [
+{ "type": "Feature", "properties": { "OBJECTID": 25289.0, "NAMOBJ": "Pajar Bulan", "FCODE": "BA03070040", "REMARK": null, "METADATA": "TASWIL1000020221227_DATA_BATAS_DESAKELURAHAN", "SRS_ID": "4326", "KDBBPS": null, "KDCBPS": null, "KDCPUM": "17.05.04", "KDEBPS": null, "KDEPUM": "17.05.04.1005", "KDPBPS": null, "KDPKAB": "17.05", "KDPPUM": "17", "LUASWH": 0.0, "TIPADM": 2.0, "WADMKC": "Semidang Alas", "WADMKD": "Pajar Bulan", "WADMKK": "Seluma", "WADMPR": "Bengkulu", "WIADKC": null, "WIADKK": null, "WIADPR": null, "WIADKD": null, "UUPP": "Hasil Delineasi Batas Desa 2018", "LUAS": 3.25071936 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 102.806180802000085, -4.25190790399995, 0.0 ], [ 102.798770565000041, -4.251660733999927, 0.0 ], [ 102.796648522000055, -4.247405786999934, 0.0 ], [ 102.796419486000048, -4.243875199999934, 0.0 ], [ 102.798423766000042, -4.240585536999959, 0.0 ], [ 102.807922990000066, -4.234438115999978, 0.0 ], [ 102.828680022000071, -4.230109417999927, 0.0 ], [ 102.805995549000045, -4.247973294999952, 0.0 ], [ 102.806180802000085, -4.25190790399995, 0.0 ] ] ] ] } }
+  ]
+}

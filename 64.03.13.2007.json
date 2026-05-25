@@ -1,0 +1,7 @@
+﻿{
+  "type": "FeatureCollection",
+  "name": "64.03.13.2007",
+  "features": [
+{ "type": "Feature", "properties": { "OBJECTID": 83248.0, "NAMOBJ": "Biatan Baru", "FCODE": "BA03070040", "REMARK": null, "METADATA": "TASWIL1000020221227_DATA_BATAS_DESAKELURAHAN", "SRS_ID": "4326", "KDBBPS": null, "KDCBPS": null, "KDCPUM": "64.03.13", "KDEBPS": null, "KDEPUM": "64.03.13.2007", "KDPBPS": null, "KDPKAB": "64.03", "KDPPUM": "64", "LUASWH": 0.0, "TIPADM": 1.0, "WADMKC": "Biatan", "WADMKD": "Biatan Baru", "WADMKK": "Berau", "WADMPR": "Kalimantan Timur", "WIADKC": null, "WIADKK": null, "WIADPR": null, "WIADKD": null, "UUPP": "Hasil Delineasi Batas Desa 2018", "LUAS": 1.03122193 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 117.998322723000115, 1.702491445000021, 0.0 ], [ 117.99831683900004, 1.691016269000045, 0.0 ], [ 117.995976417000065, 1.69101747600007, 0.0 ], [ 117.990800959000012, 1.691020144000049, 0.0 ], [ 117.990806, 1.700930546000052, 0.0 ], [ 117.9923610190001, 1.700929742000028, 0.0 ], [ 117.992361819000052, 1.702494542000068, 0.0 ], [ 117.995976417000065, 1.702492664000033, 0.0 ], [ 117.998322723000115, 1.702491445000021, 0.0 ] ] ] ] } }
+  ]
+}

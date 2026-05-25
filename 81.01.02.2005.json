@@ -1,0 +1,7 @@
+﻿{
+  "type": "FeatureCollection",
+  "name": "81.01.02.2005",
+  "features": [
+{ "type": "Feature", "properties": { "OBJECTID": 39567.0, "NAMOBJ": "Ameth", "FCODE": "BA03070040", "REMARK": null, "METADATA": "TASWIL1000020221227_DATA_BATAS_DESAKELURAHAN", "SRS_ID": "4326", "KDBBPS": null, "KDCBPS": null, "KDCPUM": "81.01.02", "KDEBPS": null, "KDEPUM": "81.01.02.2005", "KDPBPS": null, "KDPKAB": "81.01", "KDPPUM": "81", "LUASWH": 0.0, "TIPADM": 1.0, "WADMKC": "Teon Nila Serua", "WADMKD": "Ameth", "WADMKK": "Maluku Tengah", "WADMPR": "Maluku", "WIADKC": null, "WIADKK": null, "WIADPR": null, "WIADKD": null, "UUPP": "Hasil Delineasi Batas Desa 2018", "LUAS": 0.7894644 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 129.009954773000118, -3.214212179999947, 0.0 ], [ 129.005872049000118, -3.21709590599994, 0.0 ], [ 129.00527137000006, -3.217095190999942, 0.0 ], [ 129.00077409000005, -3.214215616999979, 0.0 ], [ 128.996872419000056, -3.212802881999949, 0.0 ], [ 129.005027311000049, -3.207008275999954, 0.0 ], [ 129.009112338000023, -3.212980558999959, 0.0 ], [ 129.009954773000118, -3.214212179999947, 0.0 ] ] ] ] } }
+  ]
+}

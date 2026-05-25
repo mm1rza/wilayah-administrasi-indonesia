@@ -1,0 +1,7 @@
+﻿{
+  "type": "FeatureCollection",
+  "name": "62.13.06.2013",
+  "features": [
+{ "type": "Feature", "properties": { "OBJECTID": 62676.0, "NAMOBJ": "Sumber Rejo", "FCODE": "BA03070040", "REMARK": null, "METADATA": "TASWIL1000020221227_DATA_BATAS_DESAKELURAHAN", "SRS_ID": "4326", "KDBBPS": null, "KDCBPS": null, "KDCPUM": "62.13.06", "KDEBPS": null, "KDEPUM": "62.13.06.2013", "KDPBPS": null, "KDPKAB": "62.13", "KDPPUM": "62", "LUASWH": 0.0, "TIPADM": 1.0, "WADMKC": "Pematang Karau", "WADMKD": "Sumber Rejo", "WADMKK": "Barito Timur", "WADMPR": "Kalimantan Tengah", "WIADKC": null, "WIADKK": null, "WIADPR": null, "WIADKD": null, "UUPP": "Hasil Delineasi Batas Desa 2018", "LUAS": 2.09470346 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 115.040463610000074, -1.779180587999974, 0.0 ], [ 115.040173310000114, -1.798247623999941, 0.0 ], [ 115.031288375000031, -1.798164711999959, 0.0 ], [ 115.031406231, -1.787905179999939, 0.0 ], [ 115.031602243000066, -1.778973998999959, 0.0 ], [ 115.040463610000074, -1.779180587999974, 0.0 ] ] ] ] } }
+  ]
+}

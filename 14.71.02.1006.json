@@ -1,0 +1,7 @@
+﻿{
+  "type": "FeatureCollection",
+  "name": "14.71.02.1006",
+  "features": [
+{ "type": "Feature", "properties": { "OBJECTID": 52229.0, "NAMOBJ": "Kota Tinggi", "FCODE": "BA03070040", "REMARK": null, "METADATA": "TASWIL1000020221227_DATA_BATAS_DESAKELURAHAN", "SRS_ID": "4326", "KDBBPS": null, "KDCBPS": null, "KDCPUM": "14.71.02", "KDEBPS": null, "KDEPUM": "14.71.02.1006", "KDPBPS": null, "KDPKAB": "14.71", "KDPPUM": "14", "LUASWH": 0.0, "TIPADM": 2.0, "WADMKC": "Pekanbaru Kota", "WADMKD": "Kota Tinggi", "WADMKK": "Kota Pekanbaru", "WADMPR": "Riau", "WIADKC": null, "WIADKK": null, "WIADPR": null, "WIADKD": null, "UUPP": "Hasil Delineasi Batas Desa 2018", "LUAS": 0.29667129 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 101.453743193000037, 0.528310691000058, 0.0 ], [ 101.447555199000078, 0.528332539000075, 0.0 ], [ 101.447570877000032, 0.529022741000063, 0.0 ], [ 101.447585235000076, 0.532209458000068, 0.0 ], [ 101.449065071000064, 0.532199330000026, 0.0 ], [ 101.453788690000067, 0.532237618000067, 0.0 ], [ 101.453743193000037, 0.528310691000058, 0.0 ] ] ] ] } }
+  ]
+}

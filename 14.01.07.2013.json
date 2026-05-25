@@ -1,0 +1,7 @@
+﻿{
+  "type": "FeatureCollection",
+  "name": "14.01.07.2013",
+  "features": [
+{ "type": "Feature", "properties": { "OBJECTID": 53692.0, "NAMOBJ": "Sungai Geringging", "FCODE": "BA03070040", "REMARK": null, "METADATA": "TASWIL1000020221227_DATA_BATAS_DESAKELURAHAN", "SRS_ID": "4326", "KDBBPS": null, "KDCBPS": null, "KDCPUM": "14.01.07", "KDEBPS": null, "KDEPUM": "14.01.07.2013", "KDPBPS": null, "KDPKAB": "14.01", "KDPPUM": "14", "LUASWH": 0.0, "TIPADM": 1.0, "WADMKC": "Kampar Kiri", "WADMKD": "Sungai Geringging", "WADMKK": "Kampar", "WADMPR": "Riau", "WIADKC": null, "WIADKK": null, "WIADPR": null, "WIADKD": null, "UUPP": "Hasil Delineasi Batas Desa 2018", "LUAS": 2.74624006 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 101.188818605000051, 0.029360372000042, 0.0 ], [ 101.18592519200007, 0.031138436000049, 0.0 ], [ 101.184547164000037, 0.033817529000032, 0.0 ], [ 101.178414087000078, 0.047840848000021, 0.0 ], [ 101.190032998000049, 0.05357856300003, 0.0 ], [ 101.194995723000034, 0.042264660000058, 0.0 ], [ 101.188818605000051, 0.029360372000042, 0.0 ] ] ] ] } }
+  ]
+}

@@ -1,0 +1,7 @@
+﻿{
+  "type": "FeatureCollection",
+  "name": "63.04.15.2009",
+  "features": [
+{ "type": "Feature", "properties": { "OBJECTID": 34995.0, "NAMOBJ": "Sido Makmur", "FCODE": "BA03070040", "REMARK": null, "METADATA": "TASWIL1000020221227_DATA_BATAS_DESAKELURAHAN", "SRS_ID": "4326", "KDBBPS": null, "KDCBPS": null, "KDCPUM": "63.04.15", "KDEBPS": null, "KDEPUM": "63.04.15.2009", "KDPBPS": null, "KDPKAB": "63.04", "KDPPUM": "63", "LUASWH": 0.0, "TIPADM": 1.0, "WADMKC": "Marabahan", "WADMKD": "Sido Makmur", "WADMKK": "Barito Kuala", "WADMPR": "Kalimantan Selatan", "WIADKC": null, "WIADKK": null, "WIADPR": null, "WIADKD": null, "UUPP": "Hasil Delineasi Batas Desa 2018", "LUAS": 9.56327696 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 114.714648732000114, -2.908548978999931, 0.0 ], [ 114.725499074000027, -2.92039869599995, 0.0 ], [ 114.729524925000078, -2.924771945999964, 0.0 ], [ 114.704359944000089, -2.94818128199995, 0.0 ], [ 114.688798269000017, -2.930949224999949, 0.0 ], [ 114.704845354000099, -2.916272708999941, 0.0 ], [ 114.705473530000063, -2.917186421999929, 0.0 ], [ 114.713182985000117, -2.909990931999971, 0.0 ], [ 114.714648732000114, -2.908548978999931, 0.0 ] ] ] ] } }
+  ]
+}

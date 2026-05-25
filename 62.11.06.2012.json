@@ -1,0 +1,7 @@
+﻿{
+  "type": "FeatureCollection",
+  "name": "62.11.06.2012",
+  "features": [
+{ "type": "Feature", "properties": { "OBJECTID": 34997.0, "NAMOBJ": "Sidodadi", "FCODE": "BA03070040", "REMARK": null, "METADATA": "TASWIL1000020221227_DATA_BATAS_DESAKELURAHAN", "SRS_ID": "4326", "KDBBPS": null, "KDCBPS": null, "KDCPUM": "62.11.06", "KDEBPS": null, "KDEPUM": "62.11.06.2012", "KDPBPS": null, "KDPKAB": "62.11", "KDPPUM": "62", "LUASWH": 0.0, "TIPADM": 1.0, "WADMKC": "Maliku", "WADMKD": "Sidodadi", "WADMKK": "Pulang Pisau", "WADMPR": "Kalimantan Tengah", "WIADKC": null, "WIADKK": null, "WIADPR": null, "WIADKD": null, "UUPP": "Hasil Delineasi Batas Desa 2018", "LUAS": 38.2218746 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 114.121730190000108, -2.90657293199996, 0.0 ], [ 114.123738297000045, -2.907155655999929, 0.0 ], [ 114.119167952000112, -2.926069372999962, 0.0 ], [ 114.113210184000081, -2.947242948999929, 0.0 ], [ 114.104442867000103, -2.945111116999954, 0.0 ], [ 114.042529059000117, -2.92832896699997, 0.0 ], [ 114.04839284600007, -2.888713711999969, 0.0 ], [ 114.048539058000074, -2.888002640999957, 0.0 ], [ 114.121730190000108, -2.90657293199996, 0.0 ] ] ] ] } }
+  ]
+}

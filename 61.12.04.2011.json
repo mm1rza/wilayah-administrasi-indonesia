@@ -1,0 +1,7 @@
+﻿{
+  "type": "FeatureCollection",
+  "name": "61.12.04.2011",
+  "features": [
+{ "type": "Feature", "properties": { "OBJECTID": 61955.0, "NAMOBJ": "Radak Baru", "FCODE": "BA03070040", "REMARK": null, "METADATA": "TASWIL1000020221227_DATA_BATAS_DESAKELURAHAN", "SRS_ID": "4326", "KDBBPS": null, "KDCBPS": null, "KDCPUM": "61.12.04", "KDEBPS": null, "KDEPUM": "61.12.04.2011", "KDPBPS": null, "KDPKAB": "61.12", "KDPPUM": "61", "LUASWH": 0.0, "TIPADM": 1.0, "WADMKC": "Terentang", "WADMKD": "Radak Baru", "WADMKK": "Kubu Raya", "WADMPR": "Kalimantan Barat", "WIADKC": "Terentang", "WIADKK": "Kubu Raya", "WIADPR": "Kalimantan Barat", "WIADKD": null, "UUPP": "Hasil Delineasi Batas Desa 2018", "LUAS": 15.50504557 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 109.631080312000051, -0.453874771999949, 0.0 ], [ 109.623013177000075, -0.463054709999938, 0.0 ], [ 109.610578530000055, -0.476401972999952, 0.0 ], [ 109.597299713000041, -0.503062344999933, 0.0 ], [ 109.579208154000071, -0.485257544999968, 0.0 ], [ 109.579208188000052, -0.48525750999994, 0.0 ], [ 109.60715809800007, -0.44857929899996, 0.0 ], [ 109.610791463000055, -0.443853106999939, 0.0 ], [ 109.613902068000073, -0.439905082999928, 0.0 ], [ 109.631080312000051, -0.453874771999949, 0.0 ] ] ] ] } }
+  ]
+}

@@ -1,0 +1,7 @@
+﻿{
+  "type": "FeatureCollection",
+  "name": "16.07.07.2018",
+  "features": [
+{ "type": "Feature", "properties": { "OBJECTID": 20852.0, "NAMOBJ": "Sido Mulyo 20", "FCODE": "BA03070040", "REMARK": null, "METADATA": "TASWIL1000020221227_DATA_BATAS_DESAKELURAHAN", "SRS_ID": "4326", "KDBBPS": null, "KDCBPS": null, "KDCPUM": "16.07.07", "KDEBPS": null, "KDEPUM": "16.07.07.2018", "KDPBPS": null, "KDPKAB": "16.07", "KDPPUM": "16", "LUASWH": 0.0, "TIPADM": 1.0, "WADMKC": "Muara Padang", "WADMKD": "Sido Mulyo 20", "WADMKK": "Banyuasin", "WADMPR": "Sumatera Selatan", "WIADKC": null, "WIADKK": null, "WIADPR": null, "WIADKD": null, "UUPP": "Hasil Delineasi Batas Desa 2018", "LUAS": 17.90434149 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 105.166257987000051, -2.64410335599996, 0.0 ], [ 105.164804696000033, -2.649538504999953, 0.0 ], [ 105.147236942000063, -2.715236465999965, 0.0 ], [ 105.127400629000078, -2.709614444999943, 0.0 ], [ 105.127400588000057, -2.709614433999946, 0.0 ], [ 105.147731622000038, -2.639456232999976, 0.0 ], [ 105.166257987000051, -2.64410335599996, 0.0 ] ] ] ] } }
+  ]
+}

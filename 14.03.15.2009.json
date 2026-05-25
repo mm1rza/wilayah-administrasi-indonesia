@@ -1,0 +1,7 @@
+﻿{
+  "type": "FeatureCollection",
+  "name": "14.03.15.2009",
+  "features": [
+{ "type": "Feature", "properties": { "OBJECTID": 53412.0, "NAMOBJ": "Seraiwangi", "FCODE": "BA03070040", "REMARK": null, "METADATA": "TASWIL1000020221227_DATA_BATAS_DESAKELURAHAN", "SRS_ID": "4326", "KDBBPS": null, "KDCBPS": null, "KDCPUM": "14.03.15", "KDEBPS": null, "KDEPUM": "14.03.15.2009", "KDPBPS": null, "KDPKAB": "14.03", "KDPPUM": "14", "LUASWH": 0.0, "TIPADM": 1.0, "WADMKC": "Talang Muandau", "WADMKD": "Seraiwangi", "WADMKK": "Bengkalis", "WADMPR": "Riau", "WIADKC": null, "WIADKK": null, "WIADPR": null, "WIADKD": null, "UUPP": "Hasil Delineasi Batas Desa 2018", "LUAS": 0.92186454 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 101.516423070000087, 1.119947938000053, 0.0 ], [ 101.516406772000039, 1.11261416800005, 0.0 ], [ 101.506173795000052, 1.11266344400002, 0.0 ], [ 101.506124548000059, 1.119923277000055, 0.0 ], [ 101.516423070000087, 1.119947938000053, 0.0 ] ] ] ] } }
+  ]
+}

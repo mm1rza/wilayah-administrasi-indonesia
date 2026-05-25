@@ -1,0 +1,7 @@
+﻿{
+  "type": "FeatureCollection",
+  "name": "16.07.19.2008",
+  "features": [
+{ "type": "Feature", "properties": { "OBJECTID": 20282.0, "NAMOBJ": "Padang Rejo", "FCODE": "BA03070040", "REMARK": null, "METADATA": "TASWIL1000020221227_DATA_BATAS_DESAKELURAHAN", "SRS_ID": "4326", "KDBBPS": null, "KDCBPS": null, "KDCPUM": "16.07.19", "KDEBPS": null, "KDEPUM": "16.07.19.2008", "KDPBPS": null, "KDPKAB": "16.07", "KDPPUM": "16", "LUASWH": 0.0, "TIPADM": 1.0, "WADMKC": "Air Kumbang", "WADMKD": "Padang Rejo", "WADMKK": "Banyuasin", "WADMPR": "Sumatera Selatan", "WIADKC": null, "WIADKK": null, "WIADPR": null, "WIADKD": null, "UUPP": "Hasil Delineasi Batas Desa 2018", "LUAS": 5.15240357 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 104.983761512000058, -2.837141406999933, 0.0 ], [ 104.972424981000074, -2.827031467999973, 0.0 ], [ 104.991985975000034, -2.803581700999928, 0.0 ], [ 105.000360595000075, -2.811042062999945, 0.0 ], [ 104.993455761000064, -2.819418374999941, 0.0 ], [ 104.996233171000085, -2.82190447399995, 0.0 ], [ 104.983761512000058, -2.837141406999933, 0.0 ] ] ] ] } }
+  ]
+}

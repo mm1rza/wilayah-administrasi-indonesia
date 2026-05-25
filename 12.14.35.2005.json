@@ -1,0 +1,7 @@
+﻿{
+  "type": "FeatureCollection",
+  "name": "12.14.35.2005",
+  "features": [
+{ "type": "Feature", "properties": { "OBJECTID": 58272.0, "NAMOBJ": "Sirahia", "FCODE": "BA03070040", "REMARK": null, "METADATA": "TASWIL1000020221227_DATA_BATAS_DESAKELURAHAN", "SRS_ID": "4326", "KDBBPS": null, "KDCBPS": null, "KDCPUM": "12.14.35", "KDEBPS": null, "KDEPUM": "12.14.35.2005", "KDPBPS": null, "KDPKAB": "12.14", "KDPPUM": "12", "LUASWH": 0.0, "TIPADM": 1.0, "WADMKC": "Idanotae", "WADMKD": "Sirahia", "WADMKK": "Nias Selatan", "WADMPR": "Sumatera Utara", "WIADKC": null, "WIADKK": null, "WIADPR": null, "WIADKD": null, "UUPP": "Hasil Delineasi Batas Desa 2019", "LUAS": 1.03762394 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 97.824301236000053, 0.899060246000033, 0.0 ], [ 97.822216403000084, 0.897103450000031, 0.0 ], [ 97.820645896000087, 0.895629392000046, 0.0 ], [ 97.819519888000059, 0.895251168000073, 0.0 ], [ 97.818341274000034, 0.899847763000025, 0.0 ], [ 97.815746946000047, 0.906164387000047, 0.0 ], [ 97.816528319000042, 0.906494140000063, 0.0 ], [ 97.824058147000073, 0.911603666000076, 0.0 ], [ 97.824301236000053, 0.899060246000033, 0.0 ] ] ] ] } }
+  ]
+}

@@ -1,0 +1,7 @@
+﻿{
+  "type": "FeatureCollection",
+  "name": "12.04.11.2019",
+  "features": [
+{ "type": "Feature", "properties": { "OBJECTID": 56229.0, "NAMOBJ": "Banua Sibohou Silima Ewali", "FCODE": "BA03070040", "REMARK": null, "METADATA": "TASWIL1000020221227_DATA_BATAS_DESAKELURAHAN", "SRS_ID": "4326", "KDBBPS": null, "KDCBPS": null, "KDCPUM": "12.04.11", "KDEBPS": null, "KDEPUM": "12.04.11.2019", "KDPBPS": null, "KDPKAB": "12.04", "KDPPUM": "12", "LUASWH": 0.0, "TIPADM": 1.0, "WADMKC": "Bawolato", "WADMKD": "Banua Sibohou Silima Ewali", "WADMKK": "Nias", "WADMPR": "Sumatera Utara", "WIADKC": null, "WIADKK": null, "WIADPR": null, "WIADKD": null, "UUPP": "Hasil Delineasi Batas Desa 2019", "LUAS": 1.58406834 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 97.880107813000052, 0.949611148000031, 0.0 ], [ 97.87214232000008, 0.94793420000002, 0.0 ], [ 97.865379817000075, 0.947487224000042, 0.0 ], [ 97.861408721000032, 0.954660888000035, 0.0 ], [ 97.877947868000035, 0.957518719000063, 0.0 ], [ 97.878510116000086, 0.954808287000048, 0.0 ], [ 97.880107813000052, 0.949611148000031, 0.0 ] ] ] ] } }
+  ]
+}

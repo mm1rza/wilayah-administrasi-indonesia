@@ -1,0 +1,7 @@
+﻿{
+  "type": "FeatureCollection",
+  "name": "16.07.13.2008",
+  "features": [
+{ "type": "Feature", "properties": { "OBJECTID": 82860.0, "NAMOBJ": "Cendana", "FCODE": "BA03070040", "REMARK": null, "METADATA": "TASWIL1000020221227_DATA_BATAS_DESAKELURAHAN", "SRS_ID": "4326", "KDBBPS": null, "KDCBPS": null, "KDCPUM": "16.07.13", "KDEBPS": null, "KDEPUM": "16.07.13.2008", "KDPBPS": null, "KDPKAB": "16.07", "KDPPUM": "16", "LUASWH": 0.0, "TIPADM": 1.0, "WADMKC": "Muara Sugihan", "WADMKD": "Cendana", "WADMKK": "Banyuasin", "WADMPR": "Sumatera Selatan", "WIADKC": null, "WIADKK": null, "WIADPR": null, "WIADKD": null, "UUPP": "Hasil Delineasi Batas Desa 2018", "LUAS": 18.31038543 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 105.284517067000081, -2.465391586999942, 0.0 ], [ 105.265903402000049, -2.523992116999977, 0.0 ], [ 105.265834937000079, -2.523970654999971, 0.0 ], [ 105.246064715000045, -2.518168483999943, 0.0 ], [ 105.262801188000083, -2.465391586999942, 0.0 ], [ 105.267888360000086, -2.449349666999979, 0.0 ], [ 105.287623290000056, -2.455612409999958, 0.0 ], [ 105.284517067000081, -2.465391586999942, 0.0 ] ] ] ] } }
+  ]
+}

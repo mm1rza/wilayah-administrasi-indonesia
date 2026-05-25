@@ -1,0 +1,7 @@
+﻿{
+  "type": "FeatureCollection",
+  "name": "16.07.13.2011",
+  "features": [
+{ "type": "Feature", "properties": { "OBJECTID": 58800.0, "NAMOBJ": "Tirta Mulya", "FCODE": "BA03070040", "REMARK": null, "METADATA": "TASWIL1000020221227_DATA_BATAS_DESAKELURAHAN", "SRS_ID": "4326", "KDBBPS": null, "KDCBPS": null, "KDCPUM": "16.07.13", "KDEBPS": null, "KDEPUM": "16.07.13.2011", "KDPBPS": null, "KDPKAB": "16.07", "KDPPUM": "16", "LUASWH": 0.0, "TIPADM": 1.0, "WADMKC": "Muara Sugihan", "WADMKD": "Tirta Mulya", "WADMKK": "Banyuasin", "WADMPR": "Sumatera Selatan", "WIADKC": null, "WIADKK": null, "WIADPR": null, "WIADKD": null, "UUPP": "Hasil Delineasi Batas Desa 2018", "LUAS": 9.64967754 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 105.221314279000069, -2.395213420999937, 0.0 ], [ 105.209974429000056, -2.430970378999973, 0.0 ], [ 105.190056189000074, -2.424649281999962, 0.0 ], [ 105.201408191000041, -2.388834309999936, 0.0 ], [ 105.221314279000069, -2.395213420999937, 0.0 ] ] ] ] } }
+  ]
+}

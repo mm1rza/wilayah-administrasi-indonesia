@@ -1,0 +1,7 @@
+﻿{
+  "type": "FeatureCollection",
+  "name": "91.12.26.2005",
+  "features": [
+{ "type": "Feature", "properties": { "OBJECTID": 49457.0, "NAMOBJ": "Palur Dua", "FCODE": "BA03070040", "REMARK": null, "METADATA": "TASWIL1000020221227_DATA_BATAS_DESAKELURAHAN", "SRS_ID": "4326", "KDBBPS": null, "KDCBPS": null, "KDCPUM": "91.12.26", "KDEBPS": null, "KDEPUM": "91.12.26.2005", "KDPBPS": null, "KDPKAB": "91.12", "KDPPUM": "91", "LUASWH": 0.0, "TIPADM": 1.0, "WADMKC": "Batani", "WADMKD": "Palur Dua", "WADMKK": "Pegunungan Bintang", "WADMPR": "Papua Pegunungan", "WIADKC": null, "WIADKK": null, "WIADPR": null, "WIADKD": null, "UUPP": "Hasil Delineasi Batas Desa 2018", "LUAS": 1.02072061 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 140.124359700000014, -4.176879243999963, 0.0 ], [ 140.125400715000069, -4.181786881999926, 0.0 ], [ 140.125846864000096, -4.184463775999973, 0.0 ], [ 140.125846864000096, -4.185950938999952, 0.0 ], [ 140.123169970000049, -4.185950938999952, 0.0 ], [ 140.118654691000074, -4.186707786999932, 0.0 ], [ 140.118431109000085, -4.168257058999927, 0.0 ], [ 140.12257510500001, -4.175689512999952, 0.0 ], [ 140.124359700000014, -4.176879243999963, 0.0 ] ] ] ] } }
+  ]
+}

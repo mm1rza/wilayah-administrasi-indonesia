@@ -1,0 +1,7 @@
+﻿{
+  "type": "FeatureCollection",
+  "name": "62.01.02.2011",
+  "features": [
+{ "type": "Feature", "properties": { "OBJECTID": 60343.0, "NAMOBJ": "Kenambui", "FCODE": "BA03070040", "REMARK": null, "METADATA": "TASWIL1000020221227_DATA_BATAS_DESAKELURAHAN", "SRS_ID": "4326", "KDBBPS": null, "KDCBPS": null, "KDCPUM": "62.01.02", "KDEBPS": null, "KDEPUM": "62.01.02.2011", "KDPBPS": null, "KDPKAB": "62.01", "KDPPUM": "62", "LUASWH": 0.0, "TIPADM": 1.0, "WADMKC": "Arut Selatan", "WADMKD": "Kenambui", "WADMKK": "Kotawaringin Barat", "WADMPR": "Kalimantan Tengah", "WIADKC": null, "WIADKK": null, "WIADPR": null, "WIADKD": null, "UUPP": "Hasil Delineasi Batas Desa 2018", "LUAS": 16.05022452 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 111.666949637000073, -2.385211090999974, 0.0 ], [ 111.634945775000062, -2.368937365999955, 0.0 ], [ 111.634044412000037, -2.368479029999946, 0.0 ], [ 111.63525, -2.366916666999941, 0.0 ], [ 111.639805556000056, -2.354305555999929, 0.0 ], [ 111.641805556000065, -2.349916666999945, 0.0 ], [ 111.654192195000064, -2.324830117999966, 0.0 ], [ 111.664175752000062, -2.34171233099994, 0.0 ], [ 111.674972103000073, -2.359968977999927, 0.0 ], [ 111.666949637000073, -2.385211090999974, 0.0 ] ] ] ] } }
+  ]
+}

@@ -1,0 +1,7 @@
+﻿{
+  "type": "FeatureCollection",
+  "name": "62.03.09.2035",
+  "features": [
+{ "type": "Feature", "properties": { "OBJECTID": 34078.0, "NAMOBJ": "Harapan Jaya", "FCODE": "BA03070040", "REMARK": null, "METADATA": "TASWIL1000020221227_DATA_BATAS_DESAKELURAHAN", "SRS_ID": "4326", "KDBBPS": null, "KDCBPS": null, "KDCPUM": "62.03.09", "KDEBPS": null, "KDEPUM": "62.03.09.2035", "KDPBPS": null, "KDPKAB": "62.03", "KDPPUM": "62", "LUASWH": 0.0, "TIPADM": 1.0, "WADMKC": "Mantangai", "WADMKD": "Harapan Jaya", "WADMKK": "Kapuas", "WADMPR": "Kalimantan Tengah", "WIADKC": null, "WIADKK": null, "WIADPR": null, "WIADKD": null, "UUPP": "Hasil Delineasi Batas Desa 2018", "LUAS": 11.96789278 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 114.457782309000095, -2.629122479999978, 0.0 ], [ 114.448744339000086, -2.650606367999956, 0.0 ], [ 114.451355431000025, -2.651732359999926, 0.0 ], [ 114.451286868000011, -2.651899925999942, 0.0 ], [ 114.441245363, -2.657829183999979, 0.0 ], [ 114.425266176000036, -2.644106536999971, 0.0 ], [ 114.417412676000026, -2.63709109499996, 0.0 ], [ 114.426193942000054, -2.615770514999952, 0.0 ], [ 114.457782309000095, -2.629122479999978, 0.0 ] ] ] ] } }
+  ]
+}

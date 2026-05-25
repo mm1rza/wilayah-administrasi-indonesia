@@ -1,0 +1,7 @@
+﻿{
+  "type": "FeatureCollection",
+  "name": "91.06.11.2015",
+  "features": [
+{ "type": "Feature", "properties": { "OBJECTID": 75940.0, "NAMOBJ": "Inpendi", "FCODE": "BA03070040", "REMARK": "Perlu Klarifikasi Koordinat Desa", "METADATA": "TASWIL1000020221227_DATA_BATAS_DESAKELURAHAN", "SRS_ID": "4326", "KDBBPS": null, "KDCBPS": null, "KDCPUM": "91.06.11", "KDEBPS": null, "KDEPUM": "91.06.11.2015", "KDPBPS": null, "KDPKAB": "91.06", "KDPPUM": "91", "LUASWH": 688.65290427000002, "TIPADM": 1.0, "WADMKC": "Yendidori", "WADMKD": "Inpendi", "WADMKK": "Biak Numfor", "WADMPR": "Papua", "WIADKC": null, "WIADKK": null, "WIADPR": null, "WIADKD": null, "UUPP": "Hasil Delineasi Batas Desa 2018", "LUAS": 6.83783416 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 136.012936575000026, -1.131051277999973, 0.0 ], [ 135.97582902900001, -1.130277940999974, 0.0 ], [ 135.97582902900001, -1.126771484999949, 0.0 ], [ 135.973201114000062, -1.116915029999973, 0.0 ], [ 135.982884689000116, -1.116057333999947, 0.0 ], [ 135.993598840000118, -1.116057333999947, 0.0 ], [ 136.012935930000026, -1.115796012999965, 0.0 ], [ 136.012936575000026, -1.126248842999928, 0.0 ], [ 136.012936575000026, -1.131051277999973, 0.0 ] ] ] ] } }
+  ]
+}

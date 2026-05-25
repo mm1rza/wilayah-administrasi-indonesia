@@ -1,0 +1,7 @@
+﻿{
+  "type": "FeatureCollection",
+  "name": "74.06.06.2005",
+  "features": [
+{ "type": "Feature", "properties": { "OBJECTID": 45826.0, "NAMOBJ": "Wumbuburo", "FCODE": "BA03070040", "REMARK": null, "METADATA": "TASWIL1000020221227_DATA_BATAS_DESAKELURAHAN", "SRS_ID": "SRGI 2013", "KDBBPS": null, "KDCBPS": null, "KDCPUM": "74.06.06", "KDEBPS": null, "KDEPUM": "74.06.06.2005", "KDPBPS": null, "KDPKAB": "74.06", "KDPPUM": "74", "LUASWH": 0.0, "TIPADM": 1.0, "WADMKC": "Kabaena Timur", "WADMKD": "Wumbuburo", "WADMKK": "Bombana", "WADMPR": "Sulawesi Tenggara", "WIADKC": null, "WIADKK": null, "WIADPR": null, "WIADKD": null, "UUPP": "Hasil Delineasi Batas Desa 2019", "LUAS": 3.16766237 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 122.029919883000048, -5.269008024999948, 0.0 ], [ 122.027306503000091, -5.269308515999967, 0.0 ], [ 122.024075685000071, -5.269679978999932, 0.0 ], [ 122.019815616000074, -5.26998724699996, 0.0 ], [ 122.011755869000012, -5.270384285999967, 0.0 ], [ 122.010313041000018, -5.256045925999956, 0.0 ], [ 122.027886734000049, -5.254865842999948, 0.0 ], [ 122.028975328000115, -5.263174122999942, 0.0 ], [ 122.029919883000048, -5.269008024999948, 0.0 ] ] ] ] } }
+  ]
+}

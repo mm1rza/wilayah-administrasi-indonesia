@@ -1,0 +1,7 @@
+﻿{
+  "type": "FeatureCollection",
+  "name": "62.12.04.2002",
+  "features": [
+{ "type": "Feature", "properties": { "OBJECTID": 62716.0, "NAMOBJ": "Sungai Batang", "FCODE": "BA03070040", "REMARK": null, "METADATA": "TASWIL1000020221227_DATA_BATAS_DESAKELURAHAN", "SRS_ID": "4326", "KDBBPS": null, "KDCBPS": null, "KDCPUM": "62.12.04", "KDEBPS": null, "KDEPUM": "62.12.04.2002", "KDPBPS": null, "KDPKAB": "62.12", "KDPPUM": "62", "LUASWH": 0.0, "TIPADM": 1.0, "WADMKC": "Permata Intan", "WADMKD": "Sungai Batang", "WADMKK": "Murung Raya", "WADMPR": "Kalimantan Tengah", "WIADKC": null, "WIADKK": null, "WIADPR": null, "WIADKD": null, "UUPP": "Hasil Delineasi Batas Desa 2018", "LUAS": 32.2041796 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 114.235069444000032, -0.702011110999933, 0.0 ], [ 114.235225, -0.717891666999947, 0.0 ], [ 114.25179722200005, -0.750919443999976, 0.0 ], [ 114.19672158100002, -0.76673328399994, 0.0 ], [ 114.168313889000046, -0.767625, 0.0 ], [ 114.200886111000045, -0.741194443999973, 0.0 ], [ 114.210416667000118, -0.727833332999978, 0.0 ], [ 114.20176111100011, -0.718547221999927, 0.0 ], [ 114.202291667000054, -0.701905555999929, 0.0 ], [ 114.219247222000035, -0.70135, 0.0 ], [ 114.235069444000032, -0.702011110999933, 0.0 ] ] ] ] } }
+  ]
+}

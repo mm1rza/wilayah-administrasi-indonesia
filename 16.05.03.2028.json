@@ -1,0 +1,7 @@
+﻿{
+  "type": "FeatureCollection",
+  "name": "16.05.03.2028",
+  "features": [
+{ "type": "Feature", "properties": { "OBJECTID": 21689.0, "NAMOBJ": "Temuan Jaya", "FCODE": "BA03070040", "REMARK": null, "METADATA": "TASWIL1000020221227_DATA_BATAS_DESAKELURAHAN", "SRS_ID": "4326", "KDBBPS": null, "KDCBPS": null, "KDCPUM": "16.05.03", "KDEBPS": null, "KDEPUM": "16.05.03.2028", "KDPBPS": null, "KDPKAB": "16.05", "KDPPUM": "16", "LUASWH": 0.0, "TIPADM": 1.0, "WADMKC": "Muara Kelingi", "WADMKD": "Temuan Jaya", "WADMKK": "Musi Rawas", "WADMPR": "Sumatera Selatan", "WIADKC": null, "WIADKK": null, "WIADPR": null, "WIADKD": null, "UUPP": "Hasil Delineasi Batas Desa 2018", "LUAS": 9.53133336 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 103.312481111000068, -3.063412609999943, 0.0 ], [ 103.323964090000061, -3.063430722999954, 0.0 ], [ 103.337616773000036, -3.063452097999971, 0.0 ], [ 103.337577374000034, -3.088881629999946, 0.0 ], [ 103.326287526000044, -3.088863819999972, 0.0 ], [ 103.307081438000068, -3.088833245999979, 0.0 ], [ 103.307114726000066, -3.070033108999951, 0.0 ], [ 103.307126420000088, -3.063404120999962, 0.0 ], [ 103.312481111000068, -3.063412609999943, 0.0 ] ] ] ] } }
+  ]
+}

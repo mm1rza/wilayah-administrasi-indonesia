@@ -1,0 +1,7 @@
+﻿{
+  "type": "FeatureCollection",
+  "name": "81.01.06.2049",
+  "features": [
+{ "type": "Feature", "properties": { "OBJECTID": 39629.0, "NAMOBJ": "Hatuolo", "FCODE": "BA03070040", "REMARK": null, "METADATA": "TASWIL1000020221227_DATA_BATAS_DESAKELURAHAN", "SRS_ID": "4326", "KDBBPS": null, "KDCBPS": null, "KDCPUM": "81.01.06", "KDEBPS": null, "KDEPUM": "81.01.06.2049", "KDPBPS": null, "KDPKAB": "81.01", "KDPPUM": "81", "LUASWH": 0.0, "TIPADM": 1.0, "WADMKC": "Seram Utara", "WADMKD": "Hatuolo", "WADMKK": "Maluku Tengah", "WADMPR": "Maluku", "WIADKC": null, "WIADKK": null, "WIADPR": null, "WIADKD": null, "UUPP": "Hasil Delineasi Batas Desa 2018", "LUAS": 0.90655694 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 129.66849387700006, -2.941499772999975, 0.0 ], [ 129.658380397000087, -2.941505588999973, 0.0 ], [ 129.6583757840001, -2.934215262999942, 0.0 ], [ 129.662900543000092, -2.934210576999931, 0.0 ], [ 129.668486429000041, -2.934204788999978, 0.0 ], [ 129.66849387700006, -2.941499772999975, 0.0 ] ] ] ] } }
+  ]
+}

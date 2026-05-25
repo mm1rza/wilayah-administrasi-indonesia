@@ -1,0 +1,7 @@
+﻿{
+  "type": "FeatureCollection",
+  "name": "16.06.11.2009",
+  "features": [
+{ "type": "Feature", "properties": { "OBJECTID": 58782.0, "NAMOBJ": "Sri Karang Rejo", "FCODE": "BA03070040", "REMARK": null, "METADATA": "TASWIL1000020221227_DATA_BATAS_DESAKELURAHAN", "SRS_ID": "4326", "KDBBPS": null, "KDCBPS": null, "KDCPUM": "16.06.11", "KDEBPS": null, "KDEPUM": "16.06.11.2009", "KDPBPS": null, "KDPKAB": "16.06", "KDPPUM": "16", "LUASWH": 0.0, "TIPADM": 1.0, "WADMKC": "Lalan", "WADMKD": "Sri Karang Rejo", "WADMKK": "Musi Banyuasin", "WADMPR": "Sumatera Selatan", "WIADKC": null, "WIADKK": null, "WIADPR": null, "WIADKD": null, "UUPP": "Hasil Delineasi Batas Desa 2018", "LUAS": 9.64110202 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 104.490538050000055, -2.282246111999939, 0.0 ], [ 104.479041712000082, -2.291182198999934, 0.0 ], [ 104.477043875000049, -2.288488627999925, 0.0 ], [ 104.463440856000034, -2.299219003999951, 0.0 ], [ 104.456743838000079, -2.290629751999973, 0.0 ], [ 104.449170581000033, -2.280916678999972, 0.0 ], [ 104.474130949000084, -2.261397974999966, 0.0 ], [ 104.490538050000055, -2.282246111999939, 0.0 ] ] ] ] } }
+  ]
+}

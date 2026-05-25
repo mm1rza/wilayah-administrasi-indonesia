@@ -1,0 +1,7 @@
+﻿{
+  "type": "FeatureCollection",
+  "name": "82.05.02.2003",
+  "features": [
+{ "type": "Feature", "properties": { "OBJECTID": 75253.0, "NAMOBJ": "Waibau", "FCODE": "BA03070040", "REMARK": null, "METADATA": "TASWIL1000020221227_DATA_BATAS_DESAKELURAHAN", "SRS_ID": "4326", "KDBBPS": null, "KDCBPS": null, "KDCPUM": "82.05.02", "KDEBPS": null, "KDEPUM": "82.05.02.2003", "KDPBPS": null, "KDPKAB": "82.05", "KDPPUM": "82", "LUASWH": 0.0, "TIPADM": 1.0, "WADMKC": "Sanana", "WADMKD": "Waibau", "WADMKK": "Kepulauan Sula", "WADMPR": "Maluku Utara", "WIADKC": null, "WIADKK": null, "WIADPR": null, "WIADKD": null, "UUPP": "Hasil Delineasi Batas Desa 2018", "LUAS": 3.20767829 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 125.974664381000025, -2.052929559999939, 0.0 ], [ 125.974075048000032, -2.054536434999932, 0.0 ], [ 125.97202397500007, -2.059401220999973, 0.0 ], [ 125.969681011000034, -2.058295463999968, 0.0 ], [ 125.935734388000014, -2.038354581999954, 0.0 ], [ 125.940757853000036, -2.037175628999933, 0.0 ], [ 125.945074832000046, -2.036162480999963, 0.0 ], [ 125.974664381000025, -2.052929559999939, 0.0 ] ] ] ] } }
+  ]
+}

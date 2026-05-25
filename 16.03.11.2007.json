@@ -1,0 +1,7 @@
+﻿{
+  "type": "FeatureCollection",
+  "name": "16.03.11.2007",
+  "features": [
+{ "type": "Feature", "properties": { "OBJECTID": 19347.0, "NAMOBJ": "Guci", "FCODE": "BA03070040", "REMARK": null, "METADATA": "TASWIL1000020221227_DATA_BATAS_DESAKELURAHAN", "SRS_ID": "4326", "KDBBPS": null, "KDCBPS": null, "KDCPUM": "16.03.11", "KDEBPS": null, "KDEPUM": "16.03.11.2007", "KDPBPS": null, "KDPKAB": "16.03", "KDPPUM": "16", "LUASWH": 0.0, "TIPADM": 1.0, "WADMKC": "Ujan Mas", "WADMKD": "Guci", "WADMKK": "Muara Enim", "WADMPR": "Sumatera Selatan", "WIADKC": null, "WIADKK": null, "WIADPR": null, "WIADKD": null, "UUPP": "Hasil Delineasi Batas Desa 2018", "LUAS": 4.90791229 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 103.773231556000042, -3.515407502999949, 0.0 ], [ 103.761914706000084, -3.515472173999967, 0.0 ], [ 103.761341199000071, -3.515398630999925, 0.0 ], [ 103.718571540000084, -3.509914083999945, 0.0 ], [ 103.723192469000082, -3.503634322999972, 0.0 ], [ 103.769264093000061, -3.507349103999957, 0.0 ], [ 103.772767434000059, -3.512438386999975, 0.0 ], [ 103.773231556000042, -3.515407502999949, 0.0 ] ] ] ] } }
+  ]
+}

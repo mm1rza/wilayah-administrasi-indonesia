@@ -1,0 +1,7 @@
+﻿{
+  "type": "FeatureCollection",
+  "name": "64.02.11.2018",
+  "features": [
+{ "type": "Feature", "properties": { "OBJECTID": 60620.0, "NAMOBJ": "Liang Buaya", "FCODE": "BA03070040", "REMARK": null, "METADATA": "TASWIL1000020221227_DATA_BATAS_DESAKELURAHAN", "SRS_ID": "4326", "KDBBPS": null, "KDCBPS": null, "KDCPUM": "64.02.11", "KDEBPS": null, "KDEPUM": "64.02.11.2018", "KDPBPS": null, "KDPKAB": "64.02", "KDPPUM": "64", "LUASWH": 0.0, "TIPADM": 1.0, "WADMKC": "Muara Kaman", "WADMKD": "Liang Buaya", "WADMKK": "Kutai Kartanegara", "WADMPR": "Kalimantan Timur", "WIADKC": null, "WIADKK": null, "WIADPR": null, "WIADKD": null, "UUPP": "Hasil Delineasi Batas Desa 2018", "LUAS": 94.7285509 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 116.879739426000015, 0.020057850000057, 0.0 ], [ 116.826859447000061, 0.039286455000024, 0.0 ], [ 116.751951140000074, 0.003711, 0.0 ], [ 116.732160290000024, 0.003111870000055, 0.0 ], [ 116.729217820000031, 0.031184870000061, 0.0 ], [ 116.720403580000038, 0.106466260000047, 0.0 ], [ 116.779888889000063, 0.099944444000073, 0.0 ], [ 116.799479800000086, 0.073646670000073, 0.0 ], [ 116.879739426000015, 0.020057850000057, 0.0 ] ] ] ] } }
+  ]
+}

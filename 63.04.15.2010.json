@@ -1,0 +1,7 @@
+﻿{
+  "type": "FeatureCollection",
+  "name": "63.04.15.2010",
+  "features": [
+{ "type": "Feature", "properties": { "OBJECTID": 34234.0, "NAMOBJ": "Karya Maju", "FCODE": "BA03070040", "REMARK": null, "METADATA": "TASWIL1000020221227_DATA_BATAS_DESAKELURAHAN", "SRS_ID": "4326", "KDBBPS": null, "KDCBPS": null, "KDCPUM": "63.04.15", "KDEBPS": null, "KDEPUM": "63.04.15.2010", "KDPBPS": null, "KDPKAB": "63.04", "KDPPUM": "63", "LUASWH": 0.0, "TIPADM": 1.0, "WADMKC": "Marabahan", "WADMKD": "Karya Maju", "WADMKK": "Barito Kuala", "WADMPR": "Kalimantan Selatan", "WIADKC": null, "WIADKK": null, "WIADPR": null, "WIADKD": null, "UUPP": "Hasil Delineasi Batas Desa 2018", "LUAS": 7.96653766 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 114.695815553000102, -2.88773662899996, 0.0 ], [ 114.7064304700001, -2.89942255699998, 0.0 ], [ 114.681161246000102, -2.922739769999964, 0.0 ], [ 114.66963751600008, -2.910059621999949, 0.0 ], [ 114.692518875000019, -2.88428125799993, 0.0 ], [ 114.695815553000102, -2.88773662899996, 0.0 ] ] ] ] } }
+  ]
+}

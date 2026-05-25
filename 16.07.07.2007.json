@@ -1,0 +1,7 @@
+﻿{
+  "type": "FeatureCollection",
+  "name": "16.07.07.2007",
+  "features": [
+{ "type": "Feature", "properties": { "OBJECTID": 21182.0, "NAMOBJ": "Sumber Makmur", "FCODE": "BA03070040", "REMARK": null, "METADATA": "TASWIL1000020221227_DATA_BATAS_DESAKELURAHAN", "SRS_ID": "4326", "KDBBPS": null, "KDCBPS": null, "KDCPUM": "16.07.07", "KDEBPS": null, "KDEPUM": "16.07.07.2007", "KDPBPS": null, "KDPKAB": "16.07", "KDPPUM": "16", "LUASWH": 0.0, "TIPADM": 1.0, "WADMKC": "Muara Padang", "WADMKD": "Sumber Makmur", "WADMKK": "Banyuasin", "WADMPR": "Sumatera Selatan", "WIADKC": null, "WIADKK": null, "WIADPR": null, "WIADKD": null, "UUPP": "Hasil Delineasi Batas Desa 2018", "LUAS": 18.29691922 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 105.147731622000038, -2.639456232999976, 0.0 ], [ 105.127400588000057, -2.709614433999946, 0.0 ], [ 105.127400562000048, -2.709614426999963, 0.0 ], [ 105.107731011000055, -2.704112700999929, 0.0 ], [ 105.107722203000037, -2.704110234999973, 0.0 ], [ 105.127933423000059, -2.634369269999979, 0.0 ], [ 105.147731622000038, -2.639456232999976, 0.0 ] ] ] ] } }
+  ]
+}

@@ -1,0 +1,7 @@
+﻿{
+  "type": "FeatureCollection",
+  "name": "35.25.09.2020",
+  "features": [
+{ "type": "Feature", "properties": { "OBJECTID": 13854.0, "NAMOBJ": "Pengulu", "FCODE": "BA03070040", "REMARK": "-", "METADATA": "TASWIL1000020221227_DATA_BATAS_DESAKELURAHAN", "SRS_ID": "SRGI 2013", "KDBBPS": null, "KDCBPS": null, "KDCPUM": "35.25.09", "KDEBPS": null, "KDEPUM": "35.25.09.2020", "KDPBPS": null, "KDPKAB": "35.25", "KDPPUM": "35", "LUASWH": 0.0, "TIPADM": 1.0, "WADMKC": "Sidayu", "WADMKD": "Pengulu", "WADMKK": "Gresik", "WADMPR": "Jawa Timur", "WIADKC": null, "WIADKK": null, "WIADPR": null, "WIADKD": null, "UUPP": "Hasil Sinkronisasi Data Pemerintah Daerah Tahun 2019", "LUAS": 0.06390433 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 112.565196124000067, -6.987614874999963, 0.0 ], [ 112.564984324000079, -6.988216344999955, 0.0 ], [ 112.56457969600001, -6.989292822999971, 0.0 ], [ 112.562245869000094, -6.98839142099996, 0.0 ], [ 112.562865026000054, -6.98618277099996, 0.0 ], [ 112.563520891000053, -6.98660026999994, 0.0 ], [ 112.564112737000073, -6.986976303999938, 0.0 ], [ 112.565196124000067, -6.987614874999963, 0.0 ] ] ] ] } }
+  ]
+}

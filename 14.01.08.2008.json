@@ -1,0 +1,7 @@
+﻿{
+  "type": "FeatureCollection",
+  "name": "14.01.08.2008",
+  "features": [
+{ "type": "Feature", "properties": { "OBJECTID": 51544.0, "NAMOBJ": "Bangun Sari", "FCODE": "BA03070040", "REMARK": null, "METADATA": "TASWIL1000020221227_DATA_BATAS_DESAKELURAHAN", "SRS_ID": "4326", "KDBBPS": null, "KDCBPS": null, "KDCPUM": "14.01.08", "KDEBPS": null, "KDEPUM": "14.01.08.2008", "KDPBPS": null, "KDPKAB": "14.01", "KDPPUM": "14", "LUASWH": 0.0, "TIPADM": 1.0, "WADMKC": "Kampar Kiri Hilir", "WADMKD": "Bangun Sari", "WADMKK": "Kampar", "WADMPR": "Riau", "WIADKC": null, "WIADKK": null, "WIADPR": null, "WIADKD": null, "UUPP": "Hasil Delineasi Batas Desa 2018", "LUAS": 4.93609899 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 101.474534759000051, 0.243164050000075, 0.0 ], [ 101.473562554000068, 0.231332467000072, 0.0 ], [ 101.447196216000066, 0.239451575000032, 0.0 ], [ 101.439007635000053, 0.242132985000069, 0.0 ], [ 101.447454257000061, 0.253031348000036, 0.0 ], [ 101.474534759000051, 0.243164050000075, 0.0 ] ] ] ] } }
+  ]
+}

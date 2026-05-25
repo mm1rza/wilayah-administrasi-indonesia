@@ -1,0 +1,7 @@
+﻿{
+  "type": "FeatureCollection",
+  "name": "63.08.04.2014",
+  "features": [
+{ "type": "Feature", "properties": { "OBJECTID": 63247.0, "NAMOBJ": "Teluk Paring", "FCODE": "BA03070040", "REMARK": "-", "METADATA": "TASWIL1000020221227_DATA_BATAS_DESAKELURAHAN", "SRS_ID": "4326", "KDBBPS": null, "KDCBPS": null, "KDCPUM": "63.08.04", "KDEBPS": null, "KDEPUM": "63.08.04.2014", "KDPBPS": null, "KDPKAB": "63.08", "KDPPUM": "63", "LUASWH": 0.0, "TIPADM": 1.0, "WADMKC": "Amuntai Selatan", "WADMKD": "Teluk Paring", "WADMKK": "Hulu Sungai Utara", "WADMPR": "Kalimantan Selatan", "WIADKC": null, "WIADKK": null, "WIADPR": null, "WIADKD": null, "UUPP": "Hasil Sinkronisasi Data Pemerintah Daerah Tahun 2019", "LUAS": 1.04946932 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 115.23865455400005, -2.427987504999976, 0.0 ], [ 115.236602715000117, -2.432703007999976, 0.0 ], [ 115.237440047000064, -2.434273022999946, 0.0 ], [ 115.235846430000038, -2.436448207999945, 0.0 ], [ 115.232987833000038, -2.435732100999928, 0.0 ], [ 115.22662197000011, -2.42929425799997, 0.0 ], [ 115.231418597000015, -2.425005320999958, 0.0 ], [ 115.236390890000052, -2.425237833999972, 0.0 ], [ 115.23865455400005, -2.427987504999976, 0.0 ] ] ] ] } }
+  ]
+}

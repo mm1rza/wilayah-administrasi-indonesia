@@ -1,0 +1,7 @@
+﻿{
+  "type": "FeatureCollection",
+  "name": "81.01.06.2051",
+  "features": [
+{ "type": "Feature", "properties": { "OBJECTID": 39776.0, "NAMOBJ": "Masihulan", "FCODE": "BA03070040", "REMARK": null, "METADATA": "TASWIL1000020221227_DATA_BATAS_DESAKELURAHAN", "SRS_ID": "4326", "KDBBPS": null, "KDCBPS": null, "KDCPUM": "81.01.06", "KDEBPS": null, "KDEPUM": "81.01.06.2051", "KDPBPS": null, "KDPKAB": "81.01", "KDPPUM": "81", "LUASWH": 0.0, "TIPADM": 1.0, "WADMKC": "Seram Utara", "WADMKD": "Masihulan", "WADMKK": "Maluku Tengah", "WADMPR": "Maluku", "WIADKC": null, "WIADKK": null, "WIADPR": null, "WIADKD": null, "UUPP": "Hasil Delineasi Batas Desa 2018", "LUAS": 3.26297561 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 129.212626590000013, -2.986741544999973, 0.0 ], [ 129.202684653000119, -2.990365941999926, 0.0 ], [ 129.189606763000029, -2.968788331999974, 0.0 ], [ 129.197413898000036, -2.96319379199997, 0.0 ], [ 129.212626590000013, -2.986741544999973, 0.0 ] ] ] ] } }
+  ]
+}

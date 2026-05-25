@@ -1,0 +1,7 @@
+﻿{
+  "type": "FeatureCollection",
+  "name": "16.01.20.2006",
+  "features": [
+{ "type": "Feature", "properties": { "OBJECTID": 21071.0, "NAMOBJ": "Sukajadi", "FCODE": "BA03070040", "REMARK": null, "METADATA": "TASWIL1000020221227_DATA_BATAS_DESAKELURAHAN", "SRS_ID": "4326", "KDBBPS": null, "KDCBPS": null, "KDCPUM": "16.01.20", "KDEBPS": null, "KDEPUM": "16.01.20.2006", "KDPBPS": null, "KDPKAB": "16.01", "KDPPUM": "16", "LUASWH": 0.0, "TIPADM": 1.0, "WADMKC": "Ulu Ogan", "WADMKD": "Sukajadi", "WADMKK": "Ogan Komering Ulu", "WADMPR": "Sumatera Selatan", "WIADKC": null, "WIADKK": null, "WIADPR": null, "WIADKD": null, "UUPP": "Hasil Delineasi Batas Desa 2018", "LUAS": 0.52666302 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 103.764537156000074, -4.116850365999937, 0.0 ], [ 103.76407486100004, -4.115850992999981, 0.0 ], [ 103.759152558000039, -4.111409281999954, 0.0 ], [ 103.759605117000035, -4.109469788999945, 0.0 ], [ 103.760835317000044, -4.107653777999928, 0.0 ], [ 103.765069475000075, -4.109238087999927, 0.0 ], [ 103.767525079000052, -4.111008407999975, 0.0 ], [ 103.767125330000056, -4.113464011999952, 0.0 ], [ 103.764537156000074, -4.116850365999937, 0.0 ] ] ] ] } }
+  ]
+}

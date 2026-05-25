@@ -1,0 +1,7 @@
+﻿{
+  "type": "FeatureCollection",
+  "name": "62.04.06.2023",
+  "features": [
+{ "type": "Feature", "properties": { "OBJECTID": 63235.0, "NAMOBJ": "Teluk Mampun", "FCODE": "BA03070040", "REMARK": null, "METADATA": "TASWIL1000020221227_DATA_BATAS_DESAKELURAHAN", "SRS_ID": "4326", "KDBBPS": null, "KDCBPS": null, "KDCPUM": "62.04.06", "KDEBPS": null, "KDEPUM": "62.04.06.2023", "KDPBPS": null, "KDPKAB": "62.04", "KDPPUM": "62", "LUASWH": 0.0, "TIPADM": 1.0, "WADMKC": "Dusun Selatan", "WADMKD": "Teluk Mampun", "WADMKK": "Barito Selatan", "WADMPR": "Kalimantan Tengah", "WIADKC": null, "WIADKK": null, "WIADPR": null, "WIADKD": null, "UUPP": "Hasil Delineasi Batas Desa 2018", "LUAS": 3.37570639 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 114.854939444000024, -1.59536881899993, 0.0 ], [ 114.837065315000018, -1.606324058999974, 0.0 ], [ 114.834427205000111, -1.606616190999944, 0.0 ], [ 114.832409544000029, -1.600276194999935, 0.0 ], [ 114.831183627000087, -1.596424061999926, 0.0 ], [ 114.828393640000058, -1.589723943999957, 0.0 ], [ 114.834872294000093, -1.58668047499998, 0.0 ], [ 114.854939444000024, -1.59536881899993, 0.0 ] ] ] ] } }
+  ]
+}

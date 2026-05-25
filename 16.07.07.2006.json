@@ -1,0 +1,7 @@
+﻿{
+  "type": "FeatureCollection",
+  "name": "16.07.07.2006",
+  "features": [
+{ "type": "Feature", "properties": { "OBJECTID": 20622.0, "NAMOBJ": "Purwodadi", "FCODE": "BA03070040", "REMARK": null, "METADATA": "TASWIL1000020221227_DATA_BATAS_DESAKELURAHAN", "SRS_ID": "4326", "KDBBPS": null, "KDCBPS": null, "KDCPUM": "16.07.07", "KDEBPS": null, "KDEPUM": "16.07.07.2006", "KDPBPS": null, "KDPKAB": "16.07", "KDPPUM": "16", "LUASWH": 0.0, "TIPADM": 1.0, "WADMKC": "Muara Padang", "WADMKD": "Purwodadi", "WADMKK": "Banyuasin", "WADMPR": "Sumatera Selatan", "WIADKC": null, "WIADKK": null, "WIADPR": null, "WIADKD": null, "UUPP": "Hasil Delineasi Batas Desa 2018", "LUAS": 18.00374357 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 105.127933423000059, -2.634369269999979, 0.0 ], [ 105.107722203000037, -2.704110234999973, 0.0 ], [ 105.107511053000053, -2.704051152999966, 0.0 ], [ 105.088247945000035, -2.698661154999968, 0.0 ], [ 105.108330583000054, -2.629335251999976, 0.0 ], [ 105.127933423000059, -2.634369269999979, 0.0 ] ] ] ] } }
+  ]
+}

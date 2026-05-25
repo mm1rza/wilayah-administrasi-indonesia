@@ -1,0 +1,7 @@
+﻿{
+  "type": "FeatureCollection",
+  "name": "14.06.06.2010",
+  "features": [
+{ "type": "Feature", "properties": { "OBJECTID": 53711.0, "NAMOBJ": "Sungai Kuti", "FCODE": "BA03070040", "REMARK": null, "METADATA": "TASWIL1000020221227_DATA_BATAS_DESAKELURAHAN", "SRS_ID": "4326", "KDBBPS": null, "KDCBPS": null, "KDCPUM": "14.06.06", "KDEBPS": null, "KDEPUM": "14.06.06.2010", "KDPBPS": null, "KDPKAB": "14.06", "KDPPUM": "14", "LUASWH": 0.0, "TIPADM": 1.0, "WADMKC": "Kunto Darussalam", "WADMKD": "Sungai Kuti", "WADMKK": "Rokan Hulu", "WADMPR": "Riau", "WIADKC": null, "WIADKK": null, "WIADPR": null, "WIADKD": null, "UUPP": "Hasil Delineasi Batas Desa 2018", "LUAS": 19.38824071 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 100.716365192000069, 0.912781027000051, 0.0 ], [ 100.70950558800007, 0.900251781000065, 0.0 ], [ 100.699550730000055, 0.908571582000036, 0.0 ], [ 100.684699266000052, 0.918867305000049, 0.0 ], [ 100.696211514000083, 0.936807198000054, 0.0 ], [ 100.696227488000034, 0.936832092000031, 0.0 ], [ 100.712476139000046, 0.96215186400002, 0.0 ], [ 100.737498752000079, 0.951380154000049, 0.0 ], [ 100.716365192000069, 0.912781027000051, 0.0 ] ] ] ] } }
+  ]
+}

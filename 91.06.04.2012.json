@@ -1,0 +1,7 @@
+﻿{
+  "type": "FeatureCollection",
+  "name": "91.06.04.2012",
+  "features": [
+{ "type": "Feature", "properties": { "OBJECTID": 77038.0, "NAMOBJ": "Sub Manggunsi", "FCODE": "BA03070040", "REMARK": null, "METADATA": "TASWIL1000020221227_DATA_BATAS_DESAKELURAHAN", "SRS_ID": "4326", "KDBBPS": null, "KDCBPS": null, "KDCPUM": "91.06.04", "KDEBPS": null, "KDEPUM": "91.06.04.2012", "KDPBPS": null, "KDPKAB": "91.06", "KDPPUM": "91", "LUASWH": 250.38722729, "TIPADM": 1.0, "WADMKC": "Numfor Barat", "WADMKD": "Sub Manggunsi", "WADMKK": "Biak Numfor", "WADMPR": "Papua", "WIADKC": null, "WIADKK": null, "WIADPR": null, "WIADKD": null, "UUPP": "Hasil Delineasi Batas Desa 2018", "LUAS": 2.48639842 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 134.840244151000093, -0.981293129999926, 0.0 ], [ 134.825978136000117, -0.981913197999972, 0.0 ], [ 134.817543333000117, -0.979985242999931, 0.0 ], [ 134.816579356000034, -0.974442808999925, 0.0 ], [ 134.833472418000042, -0.968968742999948, 0.0 ], [ 134.83989947800012, -0.980445127999928, 0.0 ], [ 134.840244151000093, -0.981293129999926, 0.0 ] ] ] ] } }
+  ]
+}

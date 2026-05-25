@@ -1,0 +1,7 @@
+﻿{
+  "type": "FeatureCollection",
+  "name": "16.07.12.2001",
+  "features": [
+{ "type": "Feature", "properties": { "OBJECTID": 21672.0, "NAMOBJ": "Telang Sari", "FCODE": "BA03070040", "REMARK": null, "METADATA": "TASWIL1000020221227_DATA_BATAS_DESAKELURAHAN", "SRS_ID": "4326", "KDBBPS": null, "KDCBPS": null, "KDCPUM": "16.07.12", "KDEBPS": null, "KDEPUM": "16.07.12.2001", "KDPBPS": null, "KDPKAB": "16.07", "KDPPUM": "16", "LUASWH": 0.0, "TIPADM": 1.0, "WADMKC": "Tanjung Lago", "WADMKD": "Telang Sari", "WADMKK": "Banyuasin", "WADMPR": "Sumatera Selatan", "WIADKC": null, "WIADKK": null, "WIADPR": null, "WIADKD": null, "UUPP": "Hasil Delineasi Batas Desa 2018", "LUAS": 13.84731481 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 104.777490292000039, -2.661831610999968, 0.0 ], [ 104.757090538000057, -2.664104064999947, 0.0 ], [ 104.757090755000036, -2.664105727999925, 0.0 ], [ 104.757089023000049, -2.664105917999962, 0.0 ], [ 104.750100341000064, -2.610450704999948, 0.0 ], [ 104.770550295000078, -2.608044673999927, 0.0 ], [ 104.775553014000081, -2.643196815999943, 0.0 ], [ 104.777490292000039, -2.661831610999968, 0.0 ] ] ] ] } }
+  ]
+}

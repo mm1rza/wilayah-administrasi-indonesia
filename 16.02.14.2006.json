@@ -1,0 +1,7 @@
+﻿{
+  "type": "FeatureCollection",
+  "name": "16.02.14.2006",
+  "features": [
+{ "type": "Feature", "properties": { "OBJECTID": 20177.0, "NAMOBJ": "Mukti Jaya", "FCODE": "BA03070040", "REMARK": null, "METADATA": "TASWIL1000020221227_DATA_BATAS_DESAKELURAHAN", "SRS_ID": "4326", "KDBBPS": null, "KDCBPS": null, "KDCPUM": "16.02.14", "KDEBPS": null, "KDEPUM": "16.02.14.2006", "KDPBPS": null, "KDPKAB": "16.02", "KDPPUM": "16", "LUASWH": 0.0, "TIPADM": 1.0, "WADMKC": "Air Sugihan", "WADMKD": "Mukti Jaya", "WADMKK": "Ogan Komering Ilir", "WADMPR": "Sumatera Selatan", "WIADKC": null, "WIADKK": null, "WIADPR": null, "WIADKD": null, "UUPP": "Hasil Delineasi Batas Desa 2018", "LUAS": 17.96262941 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 105.388479999000083, -2.51753, 0.0 ], [ 105.382977885000059, -2.52143506799996, 0.0 ], [ 105.360299999000063, -2.53753, 0.0 ], [ 105.335201300000051, -2.55663489899996, 0.0 ], [ 105.331339997000043, -2.559574001999977, 0.0 ], [ 105.319491552000045, -2.542207658999928, 0.0 ], [ 105.319518, -2.542188998999961, 0.0 ], [ 105.371163341000056, -2.504712932999951, 0.0 ], [ 105.377519999000071, -2.500100000999964, 0.0 ], [ 105.37903035800008, -2.502502002999961, 0.0 ], [ 105.388479999000083, -2.51753, 0.0 ] ] ] ] } }
+  ]
+}

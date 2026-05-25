@@ -1,0 +1,7 @@
+﻿{
+  "type": "FeatureCollection",
+  "name": "16.07.13.2010",
+  "features": [
+{ "type": "Feature", "properties": { "OBJECTID": 82908.0, "NAMOBJ": "Tirta Harja", "FCODE": "BA03070040", "REMARK": null, "METADATA": "TASWIL1000020221227_DATA_BATAS_DESAKELURAHAN", "SRS_ID": "4326", "KDBBPS": null, "KDCBPS": null, "KDCPUM": "16.07.13", "KDEBPS": null, "KDEPUM": "16.07.13.2010", "KDPBPS": null, "KDPKAB": "16.07", "KDPPUM": "16", "LUASWH": 0.0, "TIPADM": 1.0, "WADMKC": "Muara Sugihan", "WADMKD": "Tirta Harja", "WADMKK": "Banyuasin", "WADMPR": "Sumatera Selatan", "WIADKC": null, "WIADKK": null, "WIADPR": null, "WIADKD": null, "UUPP": "Hasil Delineasi Batas Desa 2018", "LUAS": 18.47225168 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 105.22075200900008, -2.465391586999942, 0.0 ], [ 105.20766651100007, -2.506578434999938, 0.0 ], [ 105.188046917000065, -2.500112525999953, 0.0 ], [ 105.199058201000071, -2.465391586999942, 0.0 ], [ 105.209974429000056, -2.430970378999973, 0.0 ], [ 105.229699169000071, -2.437230236999937, 0.0 ], [ 105.22075200900008, -2.465391586999942, 0.0 ] ] ] ] } }
+  ]
+}

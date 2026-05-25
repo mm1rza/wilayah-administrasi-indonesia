@@ -1,0 +1,7 @@
+﻿{
+  "type": "FeatureCollection",
+  "name": "62.05.08.2001",
+  "features": [
+{ "type": "Feature", "properties": { "OBJECTID": 63380.0, "NAMOBJ": "Trahean", "FCODE": "BA03070040", "REMARK": null, "METADATA": "TASWIL1000020221227_DATA_BATAS_DESAKELURAHAN", "SRS_ID": "4326", "KDBBPS": null, "KDCBPS": null, "KDCPUM": "62.05.08", "KDEBPS": null, "KDEPUM": "62.05.08.2001", "KDPBPS": null, "KDPKAB": "62.05", "KDPPUM": "62", "LUASWH": 0.0, "TIPADM": 1.0, "WADMKC": "Teweh Selatan", "WADMKD": "Trahean", "WADMKK": "Barito Utara", "WADMPR": "Kalimantan Tengah", "WIADKC": null, "WIADKK": null, "WIADPR": null, "WIADKD": null, "UUPP": "Hasil Delineasi Batas Desa 2018", "LUAS": 8.32500728 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 114.911331799000095, -1.024485919999961, 0.0 ], [ 114.907174076000047, -1.038865929999929, 0.0 ], [ 114.909459897000033, -1.046613653999941, 0.0 ], [ 114.911356359000024, -1.053681599999948, 0.0 ], [ 114.889486705000081, -1.05329321399995, 0.0 ], [ 114.882656470000029, -1.037508866999929, 0.0 ], [ 114.890934255000047, -1.025338694999959, 0.0 ], [ 114.906001973000116, -1.022163693999971, 0.0 ], [ 114.911331799000095, -1.024485919999961, 0.0 ] ] ] ] } }
+  ]
+}

@@ -1,0 +1,7 @@
+﻿{
+  "type": "FeatureCollection",
+  "name": "62.03.09.2027",
+  "features": [
+{ "type": "Feature", "properties": { "OBJECTID": 34957.0, "NAMOBJ": "Sekata Makmur", "FCODE": "BA03070040", "REMARK": null, "METADATA": "TASWIL1000020221227_DATA_BATAS_DESAKELURAHAN", "SRS_ID": "4326", "KDBBPS": null, "KDCBPS": null, "KDCPUM": "62.03.09", "KDEBPS": null, "KDEPUM": "62.03.09.2027", "KDPBPS": null, "KDPKAB": "62.03", "KDPPUM": "62", "LUASWH": 0.0, "TIPADM": 1.0, "WADMKC": "Mantangai", "WADMKD": "Sekata Makmur", "WADMKK": "Kapuas", "WADMPR": "Kalimantan Tengah", "WIADKC": null, "WIADKK": null, "WIADPR": null, "WIADKD": null, "UUPP": "Hasil Delineasi Batas Desa 2018", "LUAS": 13.64936958 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 114.507630389000042, -2.550580665999973, 0.0 ], [ 114.489221523000083, -2.591992307999931, 0.0 ], [ 114.476004217000082, -2.586303545999954, 0.0 ], [ 114.459994582000036, -2.579377932999932, 0.0 ], [ 114.470850843000107, -2.559017675999939, 0.0 ], [ 114.482069895000109, -2.564060812999969, 0.0 ], [ 114.491256915, -2.543573381999977, 0.0 ], [ 114.506083668000088, -2.549918730999934, 0.0 ], [ 114.507630389000042, -2.550580665999973, 0.0 ] ] ] ] } }
+  ]
+}

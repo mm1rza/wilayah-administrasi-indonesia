@@ -1,0 +1,7 @@
+﻿{
+  "type": "FeatureCollection",
+  "name": "82.01.02.2023",
+  "features": [
+{ "type": "Feature", "properties": { "OBJECTID": 74247.0, "NAMOBJ": "Bantoli", "FCODE": "BA03070040", "REMARK": null, "METADATA": "TASWIL1000020221227_DATA_BATAS_DESAKELURAHAN", "SRS_ID": "4326", "KDBBPS": null, "KDCBPS": null, "KDCPUM": "82.01.02", "KDEBPS": null, "KDEPUM": "82.01.02.2023", "KDPBPS": null, "KDPKAB": "82.01", "KDPPUM": "82", "LUASWH": 0.0, "TIPADM": 1.0, "WADMKC": "Loloda", "WADMKD": "Bantoli", "WADMKK": "Halmahera Barat", "WADMPR": "Maluku Utara", "WIADKC": null, "WIADKK": null, "WIADPR": null, "WIADKD": null, "UUPP": "Hasil Delineasi Batas Desa 2018", "LUAS": 0.06574246 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 127.586517894000053, 1.693940972000064, 0.0 ], [ 127.585384701000066, 1.693667013000038, 0.0 ], [ 127.584992508000028, 1.693977398000072, 0.0 ], [ 127.587408640000035, 1.697802940000031, 0.0 ], [ 127.588373341000079, 1.697153761000038, 0.0 ], [ 127.586517894000053, 1.693940972000064, 0.0 ] ] ] ] } }
+  ]
+}

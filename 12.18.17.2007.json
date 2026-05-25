@@ -1,0 +1,7 @@
+﻿{
+  "type": "FeatureCollection",
+  "name": "12.18.17.2007",
+  "features": [
+{ "type": "Feature", "properties": { "OBJECTID": 73323.0, "NAMOBJ": "Ujung Negeri Hulu", "FCODE": "BA03070040", "REMARK": null, "METADATA": "TASWIL1000020221227_DATA_BATAS_DESAKELURAHAN", "SRS_ID": "4326", "KDBBPS": null, "KDCBPS": null, "KDCPUM": "12.18.17", "KDEBPS": null, "KDEPUM": "12.18.17.2007", "KDPBPS": null, "KDPKAB": "12.18", "KDPPUM": "12", "LUASWH": 0.0, "TIPADM": 1.0, "WADMKC": "Bintang Bayu", "WADMKD": "Ujung Negeri Hulu", "WADMKK": "Serdang Bedagai", "WADMPR": "Sumatera Utara", "WIADKC": null, "WIADKK": null, "WIADPR": null, "WIADKD": null, "UUPP": "Hasil Delineasi Batas Desa 2018", "LUAS": 0.5114265 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 98.961684490000039, 3.293440066000073, 0.0 ], [ 98.955859331000056, 3.288315541000031, 0.0 ], [ 98.951957578000076, 3.292068738000069, 0.0 ], [ 98.957728732000078, 3.297135893000075, 0.0 ], [ 98.961684490000039, 3.293440066000073, 0.0 ] ] ] ] } }
+  ]
+}

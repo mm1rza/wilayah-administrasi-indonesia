@@ -1,0 +1,7 @@
+﻿{
+  "type": "FeatureCollection",
+  "name": "91.06.05.2018",
+  "features": [
+{ "type": "Feature", "properties": { "OBJECTID": 75918.0, "NAMOBJ": "Indaibori", "FCODE": "BA03070040", "REMARK": "Perlu Klarifikasi Koordinat Desa", "METADATA": "TASWIL1000020221227_DATA_BATAS_DESAKELURAHAN", "SRS_ID": "4326", "KDBBPS": null, "KDCBPS": null, "KDCPUM": "91.06.05", "KDEBPS": null, "KDEPUM": "91.06.05.2018", "KDPBPS": null, "KDPKAB": "91.06", "KDPPUM": "91", "LUASWH": 509.75749065000002, "TIPADM": 1.0, "WADMKC": "Numfor Timur", "WADMKD": "Indaibori", "WADMKK": "Biak Numfor", "WADMPR": "Papua", "WIADKC": null, "WIADKK": null, "WIADPR": null, "WIADKD": null, "UUPP": "Hasil Delineasi Batas Desa 2018", "LUAS": 5.06198721 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 134.864977386000078, -1.001886465999974, 0.0 ], [ 134.858045512000103, -1.001576610999962, 0.0 ], [ 134.857858343000089, -0.996236197999963, 0.0 ], [ 134.854781863000085, -0.988757907999968, 0.0 ], [ 134.851596225000094, -0.975265794999927, 0.0 ], [ 134.847981019000031, -0.965173344999926, 0.0 ], [ 134.86378486600006, -0.96367844699995, 0.0 ], [ 134.865088005000075, -0.997364283999957, 0.0 ], [ 134.864977386000078, -1.001886465999974, 0.0 ] ] ] ] } }
+  ]
+}
